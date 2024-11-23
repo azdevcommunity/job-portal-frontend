@@ -1,0 +1,453 @@
+[
+    {
+      "id": 1,
+      "image": "/b1.png",
+      "topic": "TOPIC",
+      "title": "Published: e-Money’s Proof of Funds Report by Ernst & Young",
+      "authorImage": "/a1.png",
+      "author": "Leslie Alexander",
+      "date": "April 8, 2022",
+      "category": "All"
+    },
+    {
+      "id": 2,
+      "image": "/b2.png",
+      "topic": "TOPIC",
+      "title": "Exploring the Future of Digital Currencies",
+      "authorImage": "/a2.png",
+      "author": "John Doe",
+      "date": "April 12, 2022",
+      "category": "Dolar"
+    },
+    {
+      "id": 3,
+      "image": "/b3.png",
+      "topic": "TOPIC",
+      "title": "Understanding Blockchain Technology",
+      "authorImage": "/a3.png",
+      "author": "Jane Smith",
+      "date": "April 15, 2022",
+      "category": "Lorem"
+    },
+    {
+      "id": 4,
+      "image": "/b4.png",
+      "topic": "TOPIC",
+      "title": "The Impact of Cryptocurrency on Global Finance",
+      "authorImage": "/a4.png",
+      "author": "Robert Brown",
+      "date": "April 18, 2022",
+      "category": "Sitaa"
+    },
+    {
+      "id": 5,
+      "image": "/b5.png",
+      "topic": "TOPIC",
+      "title": "Crypto Regulation: What to Expect in 2023",
+      "authorImage": "/a4.png",
+      "author": "Emily White",
+      "date": "April 22, 2022",
+      "category": "Ameet"
+    },
+    {
+      "id": 6,
+      "image": "/b6.png",
+      "topic": "TOPIC",
+      "title": "Decentralized Finance: A New Era",
+      "authorImage": "/a6.png",
+      "author": "Michael Green",
+      "date": "April 25, 2022",
+      "category": "Dolar"
+    },
+    {
+      "id": 7,
+      "image": "/b7.png",
+      "topic": "TOPIC",
+      "title": "How Blockchain is Changing Industries",
+      "authorImage": "/a7.png",
+      "author": "Sarah Blue",
+      "date": "April 29, 2022",
+      "category": "Lorem"
+    },
+    {
+      "id": 8,
+      "image": "/b8.png",
+      "topic": "TOPIC",
+      "title": "The Rise of NFTs in the Digital World",
+      "authorImage": "/a8.png",
+      "author": "George Black",
+      "date": "May 2, 2022",
+      "category": "Sitaa"
+    },
+    {
+      "id": 9,
+      "image": "/b9.png",
+      "topic": "TOPIC",
+      "title": "Analyzing Crypto Market Trends",
+      "authorImage": "/a9.png",
+      "author": "David Green",
+      "date": "May 30, 2022",
+      "category": "Ameet"
+    },
+    {
+      "id": 10,
+      "image": "/b1.png",
+      "topic": "TOPIC",
+      "title": "The Role of Stablecoins in the Future of Finance",
+      "authorImage": "/a1.png",
+      "author": "Leslie Alexander",
+      "date": "June 5, 2022",
+      "category": "Dolar"
+    },
+    {
+      "id": 11,
+      "image": "/b2.png",
+      "topic": "TOPIC",
+      "title": "Cryptocurrency and Taxation: What You Need to Know",
+      "authorImage": "/a2.png",
+      "author": "John Doe",
+      "date": "June 10, 2022",
+      "category": "Lorem"
+    },
+    {
+      "id": 12,
+      "image": "/b3.png",
+      "topic": "TOPIC",
+      "title": "The Environmental Impact of Bitcoin Mining",
+      "authorImage": "/a3.png",
+      "author": "Jane Smith",
+      "date": "June 15, 2022",
+      "category": "Sitaa"
+    },
+    {
+      "id": 13,
+      "image": "/b4.png",
+      "topic": "TOPIC",
+      "title": "Understanding Smart Contracts",
+      "authorImage": "/a4.png",
+      "author": "Robert Brown",
+      "date": "June 20, 2022",
+      "category": "Ameet"
+    },
+    {
+      "id": 14,
+      "image": "/b5.png",
+      "topic": "TOPIC",
+      "title": "The Future of Digital Identity",
+      "authorImage": "/a7.png",
+      "author": "Emily White",
+      "date": "June 25, 2022",
+      "category": "Dolar"
+    },
+    {
+      "id": 15,
+      "image": "/b6.png",
+      "topic": "TOPIC",
+      "title": "Blockchain's Role in Supply Chain Management",
+      "authorImage": "/a6.png",
+      "author": "Michael Green",
+      "date": "June 30, 2022",
+      "category": "Lorem"
+    },
+    {
+      "id": 16,
+      "image": "/b7.png",
+      "topic": "TOPIC",
+      "title": "What Are Decentralized Autonomous Organizations (DAOs)?",
+      "authorImage": "/a7.png",
+      "author": "Sarah Blue",
+      "date": "July 5, 2022",
+      "category": "Sitaa"
+    },
+    {
+      "id": 17,
+      "image": "/b8.png",
+      "topic": "TOPIC",
+      "title": "The Impact of Cryptocurrencies on Developing Economies",
+      "authorImage": "/a8.png",
+      "author": "George Black",
+      "date": "July 10, 2022",
+      "category": "Ameet"
+    },
+    {
+      "id": 18,
+      "image": "/b9.png",
+      "topic": "TOPIC",
+      "title": "Central Bank Digital Currencies: A New Frontier",
+      "authorImage": "/a9.png",
+      "author": "David Green",
+      "date": "July 15, 2022",
+      "category": "Dolar"
+    },
+    {
+      "id": 19,
+      "image": "/b1.png",
+      "topic": "TOPIC",
+      "title": "Exploring the Metaverse and Its Potential",
+      "authorImage": "/a1.png",
+      "author": "Leslie Alexander",
+      "date": "July 20, 2022",
+      "category": "Lorem"
+    },
+    {
+      "id": 20,
+      "image": "/b2.png",
+      "topic": "TOPIC",
+      "title": "The Role of Cryptography in Blockchain",
+      "authorImage": "/a2.png",
+      "author": "John Doe",
+      "date": "July 25, 2022",
+      "category": "Sitaa"
+    },
+    {
+      "id": 21,
+      "image": "/b3.png",
+      "topic": "TOPIC",
+      "title": "How DeFi is Revolutionizing Finance",
+      "authorImage": "/a3.png",
+      "author": "Jane Smith",
+      "date": "July 30, 2022",
+      "category": "Ameet"
+    },
+    {
+      "id": 22,
+      "image": "/b4.png",
+      "topic": "TOPIC",
+      "title": "A Beginner's Guide to Cryptocurrency Wallets",
+      "authorImage": "/a4.png",
+      "author": "Robert Brown",
+      "date": "August 5, 2022",
+      "category": "Dolar"
+    },
+    {
+      "id": 23,
+      "image": "/b5.png",
+      "topic": "TOPIC",
+      "title": "Digital Assets and the Law: What You Need to Know",
+      "authorImage": "/a7.png",
+      "author": "Emily White",
+      "date": "August 10, 2022",
+      "category": "Lorem"
+    },
+    {
+      "id": 24,
+      "image": "/b6.png",
+      "topic": "TOPIC",
+      "title": "The Importance of Decentralization in Blockchain",
+      "authorImage": "/a6.png",
+      "author": "Michael Green",
+      "date": "August 15, 2022",
+      "category": "Sitaa"
+    },
+    {
+      "id": 25,
+      "image": "/b7.png",
+      "topic": "TOPIC",
+      "title": "How to Safeguard Your Crypto Assets",
+      "authorImage": "/a7.png",
+      "author": "Sarah Blue",
+      "date": "August 20, 2022",
+      "category": "Ameet"
+    },
+    {
+      "id": 26,
+      "image": "/b8.png",
+      "topic": "TOPIC",
+      "title": "The Evolution of Cryptocurrency Exchanges",
+      "authorImage": "/a8.png",
+      "author": "George Black",
+      "date": "August 25, 2022",
+      "category": "Dolar"
+    },
+    {
+      "id": 27,
+      "image": "/b9.png",
+      "topic": "TOPIC",
+      "title": "The Pros and Cons of Centralized Exchanges",
+      "authorImage": "/a9.png",
+      "author": "David Green",
+      "date": "August 30, 2022",
+      "category": "Lorem"
+    },
+    {
+      "id": 28,
+      "image": "/b1.png",
+      "topic": "TOPIC",
+      "title": "The Role of AI in Cryptocurrency Trading",
+      "authorImage": "/a1.png",
+      "author": "Leslie Alexander",
+      "date": "September 5, 2022",
+      "category": "Sitaa"
+    },
+    {
+      "id": 29,
+      "image": "/b2.png",
+      "topic": "TOPIC",
+      "title": "Understanding Decentralized Applications (dApps)",
+      "authorImage": "/a2.png",
+      "author": "John Doe",
+      "date": "September 10, 2022",
+      "category": "Ameet"
+    },
+    {
+      "id": 30,
+      "image": "/b3.png",
+      "topic": "TOPIC",
+      "title": "The Future of Payments: Cryptocurrencies vs. Traditional Systems",
+      "authorImage": "/a3.png",
+      "author": "Jane Smith",
+      "date": "September 15, 2022",
+      "category": "Dolar"
+    },
+    {
+      "id": 31,
+      "image": "/b4.png",
+      "topic": "TOPIC",
+      "title": "The Impact of Cryptocurrency on Remittances",
+      "authorImage": "/a4.png",
+      "author": "Robert Brown",
+      "date": "September 20, 2022",
+      "category": "Lorem"
+    },
+    {
+      "id": 32,
+      "image": "/b5.png",
+      "topic": "TOPIC",
+      "title": "How to Choose the Right Cryptocurrency Exchange",
+      "authorImage": "/a7.png",
+      "author": "Emily White",
+      "date": "September 25, 2022",
+      "category": "Sitaa"
+    },
+    {
+      "id": 33,
+      "image": "/b6.png",
+      "topic": "TOPIC",
+      "title": "The Intersection of Blockchain and IoT",
+      "authorImage": "/a6.png",
+      "author": "Michael Green",
+      "date": "September 30, 2022",
+      "category": "Ameet"
+    },
+    {
+      "id": 34,
+      "image": "/b7.png",
+      "topic": "TOPIC",
+      "title": "The Growing Importance of Privacy Coins",
+      "authorImage": "/a7.png",
+      "author": "Sarah Blue",
+      "date": "October 5, 2022",
+      "category": "Dolar"
+    },
+    {
+      "id": 35,
+      "image": "/b8.png",
+      "topic": "TOPIC",
+      "title": "Blockchain in Healthcare: Opportunities and Challenges",
+      "authorImage": "/a8.png",
+      "author": "George Black",
+      "date": "October 10, 2022",
+      "category": "Lorem"
+    },
+    {
+      "id": 36,
+      "image": "/b9.png",
+      "topic": "TOPIC",
+      "title": "The Rise of Decentralized Finance (DeFi)",
+      "authorImage": "/a9.png",
+      "author": "David Green",
+      "date": "October 15, 2022",
+      "category": "Sitaa"
+    },
+    {
+      "id": 37,
+      "image": "/b1.png",
+      "topic": "TOPIC",
+      "title": "How to Get Started with Yield Farming",
+      "authorImage": "/a1.png",
+      "author": "Leslie Alexander",
+      "date": "October 20, 2022",
+      "category": "Ameet"
+    },
+    {
+      "id": 38,
+      "image": "/b2.png",
+      "topic": "TOPIC",
+      "title": "The Legal Landscape of Cryptocurrencies",
+      "authorImage": "/a2.png",
+      "author": "John Doe",
+      "date": "October 25, 2022",
+      "category": "Dolar"
+    },
+    {
+      "id": 39,
+      "image": "/b3.png",
+      "topic": "TOPIC",
+      "title": "The Role of NFTs in the Art World",
+      "authorImage": "/a3.png",
+      "author": "Jane Smith",
+      "date": "October 30, 2022",
+      "category": "Lorem"
+    },
+    {
+      "id": 40,
+      "image": "/b4.png",
+      "topic": "TOPIC",
+      "title": "Cryptocurrency Security: Protecting Your Assets",
+      "authorImage": "/a4.png",
+      "author": "Robert Brown",
+      "date": "November 5, 2022",
+      "category": "Sitaa"
+    },
+    {
+      "id": 41,
+      "image": "/b5.png",
+      "topic": "TOPIC",
+      "title": "The Future of Digital Payments",
+      "authorImage": "/a7.png",
+      "author": "Emily White",
+      "date": "November 10, 2022",
+      "category": "Ameet"
+    },
+    {
+      "id": 42,
+      "image": "/b6.png",
+      "topic": "TOPIC",
+      "title": "How Blockchain is Redefining Trust",
+      "authorImage": "/a6.png",
+      "author": "Michael Green",
+      "date": "November 15, 2022",
+      "category": "Dolar"
+    },
+    {
+      "id": 43,
+      "image": "/b7.png",
+      "topic": "TOPIC",
+      "title": "The Challenges of Scaling Blockchain",
+      "authorImage": "/a7.png",
+      "author": "Sarah Blue",
+      "date": "November 20, 2022",
+      "category": "Lorem"
+    },
+    {
+      "id": 44,
+      "image": "/b8.png",
+      "topic": "TOPIC",
+      "title": "Blockchain's Potential in Voting Systems",
+      "authorImage": "/a8.png",
+      "author": "George Black",
+      "date": "November 25, 2022",
+      "category": "Sitaa"
+    },
+    {
+      "id": 45,
+      "image": "/b9.png",
+      "topic": "TOPIC",
+      "title": "The Role of Decentralization in the Future of the Internet",
+      "authorImage": "/a9.png",
+      "author": "David Green",
+      "date": "November 30, 2022",
+      "category": "Ameet"
+    }
+  ]
+  

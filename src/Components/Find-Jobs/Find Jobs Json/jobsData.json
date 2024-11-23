@@ -1,0 +1,4285 @@
+[
+    {
+        "id": 1,
+        "company": "Mailchimp",
+        "posted": "19 ago",
+        "jobTitle": "Front-End Developer",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-9) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t1.png",
+        "salary": "3600",
+        "description": "Mailchimp is an all-in-one Marketing Platform for small business.",
+        "Overview": [
+            "You as a Product Designer stand and defend what’s best for the user.",
+            "You will have full ownership of the end-to-end design process.",
+            "You'll collaborate hand-in-hand with Product Management, Design, and Engineering to transform your design concepts into fully implemented features.",
+            "You will conduct user research to validate your assumptions and advocate for the user's needs with other stakeholders.",
+            "You will maintain and grow our Design System.",
+            "You will advocate for the accessibility, consistency, and quality of our product.",
+            "You will be part of the whole process, from the idea inception for potential new features and sketching rough concepts, building low to high fidelity prototypes and mockups to test and handle over the documentation to engineering."
+        ],
+        "role": [
+            "You as a Product Designer stand and defend what’s best for the user.",
+            "You will have full ownership of the end-to-end design process.",
+            "You'll collaborate hand-in-hand with Product Management, Design, and Engineering to transform your design concepts into fully implemented features.",
+            "You will conduct user research to validate your assumptions and advocate for the user's needs with other stakeholders.",
+            "You will maintain and grow our Design System.",
+            "You will advocate for the accessibility, consistency, and quality of our product.",
+            "You will be part of the whole process, from the idea inception for potential new features and sketching rough concepts, building low to high fidelity prototypes and mockups to test and handle over the documentation to engineering."
+        ],
+        "Responsibilities": [
+            "Deliver solutions with a focus on a great user experience while balancing customer needs, company goals, design cohesion, and ease of implementation.",
+            "Own end-to-end user journey and all aspects of design execution from customer research to ideation to prototyping to usability tests to the final product.",
+            "Seek out, understand, incorporate and communicate qualitative and quantitative feedback throughout the design process leveraging surveys, user testing, and user data to measure feature performance in-app.",
+            "Work autonomously in a cross-functional, agile product group with Product Managers, Engineers, and Data Scientists to prioritize and build new features.",
+            "Have a deep understanding of user needs and business objectives in your agile group’s product area.",
+            "Prioritize appropriately: Use good judgment to make appropriate tradeoffs to speed up product learning and balance competing priorities."
+          ],
+          "have": [
+            "A portfolio showcasing a clear understanding of User Interface Design (typography, simplicity, interactions, and visual design).",
+            "At least 3+ years of relevant design experience in digital products, a plus (but not necessary) would be if you have experience with educational, consumer, or SaaS platforms.",
+            "Have experience in working with multi-disciplinary teams in iterative product development cycles. You are great at prioritizing tasks, as well as making tradeoffs between design quality and implementation efforts.",
+            "Strategic and purposeful in making design decisions and you do that by integrating user, business, and technical considerations into your design process.",
+            "You are a strong communicator and know how to advocate for design."
+          ],
+          "know":"🌈 Mailchimp is 100% in support of diversity and inclusion. Our differences help drive our success, and having a diverse team is fundamental to our success. Uxcel welcomes people from any race, orientation, gender, religion, age, ethnicity, disability, and identity!"
+    },
+    {
+        "id": 2,
+        "company": "Shopify",
+        "posted": "19 ago",
+        "jobTitle": "Lead Product Designer",
+        "location": "Remote, (GMT-5) to (GMT+6)",
+        "jobType": "Contract",
+        "experience": "Contract",
+        "logo": "/t2.png",
+        "salary": "2000",
+        "description": "Shopify is seeking a Lead Product Designer to oversee the design process and ensure a seamless user experience across our platform.",
+        "Overview": [
+            "Lead the design of major product features from concept to delivery.",
+            "Collaborate with cross-functional teams to define and implement design solutions.",
+            "Drive design strategy with a focus on user-centered design principles."
+        ],
+        "role": [
+            "Take ownership of design projects from ideation to final implementation.",
+            "Work closely with product managers, engineers, and stakeholders to deliver high-quality design solutions.",
+            "Ensure design consistency and advocate for the best user experience."
+        ],
+        "Responsibilities": [
+            "Design and prototype user interfaces for new features and products.",
+            "Conduct user research and usability testing to inform design decisions.",
+            "Collaborate with development teams to ensure designs are feasible and implemented effectively.",
+            "Maintain and enhance the design system and style guide."
+        ],
+        "have": [
+            "Proven experience as a Product Designer with a strong portfolio.",
+            "Experience in leading design projects and teams.",
+            "Ability to balance design quality with technical constraints."
+        ],
+        "know": "Shopify values diversity and is committed to creating an inclusive environment for all employees."
+    },
+    {
+        "id": 3,
+        "company": "Intercom",
+        "posted": "19 ago",
+        "jobTitle": "Project Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Leadership",
+        "remoteStatus": "Remote OK",
+        "logo": "/t3.png",
+        "salary": "5000",
+        "description": "Intercom is hiring a Project Manager to oversee and coordinate projects across various teams, ensuring timely delivery and alignment with strategic goals.",
+        "Overview": [
+            "Manage cross-functional project teams to deliver high-impact projects.",
+            "Develop project plans, including scope, timeline, and resources.",
+            "Communicate project status and updates to stakeholders."
+        ],
+        "role": [
+            "Lead project planning and execution with a focus on meeting deadlines and objectives.",
+            "Coordinate with product, design, and engineering teams to ensure project alignment.",
+            "Identify and mitigate project risks and issues."
+        ],
+        "Responsibilities": [
+            "Create and manage project schedules, budgets, and resource allocation.",
+            "Facilitate project meetings and ensure clear communication.",
+            "Monitor project progress and adjust plans as needed."
+        ],
+        "have": [
+            "Experience managing complex projects with cross-functional teams.",
+            "Strong organizational and leadership skills.",
+            "Excellent communication and problem-solving abilities."
+        ],
+        "know": "Intercom is committed to fostering a diverse and inclusive work environment."
+    },
+    {
+        "id": 4,
+        "company": "Airbnb",
+        "posted": "19 ago",
+        "jobTitle": "Social Media Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Part-time",
+        "experience": "Junior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t4.png",
+        "description": "Airbnb is looking for a Social Media Manager to help drive our social media presence and engage with our global audience.",
+        "Overview": [
+            "Manage and execute social media strategies to enhance brand presence.",
+            "Create and curate engaging content for various social media platforms.",
+            "Monitor social media trends and analyze performance metrics."
+        ],
+        "role": [
+            "Develop and implement social media campaigns.",
+            "Create content calendars and schedule posts.",
+            "Engage with followers and respond to inquiries."
+        ],
+        "Responsibilities": [
+            "Manage social media accounts and monitor online presence.",
+            "Analyze social media performance and adjust strategies as needed.",
+            "Collaborate with the marketing team to align social media efforts with broader campaigns."
+        ],
+        "have": [
+            "Experience managing social media accounts for a brand or organization.",
+            "Strong writing and communication skills.",
+            "Familiarity with social media analytics tools."
+        ],
+        "know": "Airbnb values diversity and strives to create a welcoming environment for all employees."
+    },
+    {
+        "id": 5,
+        "company": "Telegram",
+        "posted": "19 ago",
+        "jobTitle": "Marketing Assistant",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Internship",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t5.png",
+        "description": "Telegram is seeking a Marketing Assistant to support our marketing team in executing campaigns and analyzing performance.",
+        "Overview": [
+            "Assist in developing and implementing marketing strategies.",
+            "Support campaign execution and monitor performance.",
+            "Coordinate with other departments to ensure marketing efforts are aligned."
+        ],
+        "role": [
+            "Help create and manage marketing content and campaigns.",
+            "Conduct market research and analyze campaign results.",
+            "Assist with social media management and community engagement."
+        ],
+        "Responsibilities": [
+            "Support marketing team in daily tasks and project management.",
+            "Analyze marketing data and prepare reports.",
+            "Assist in organizing promotional events and activities."
+        ],
+        "have": [
+            "Experience in marketing or related field.",
+            "Strong analytical and organizational skills.",
+            "Ability to work independently and as part of a team."
+        ],
+        "know": "Telegram is an inclusive employer and values diversity in the workplace."
+    },
+    {
+        "id": 6,
+        "company": "GitHub",
+        "posted": "19 ago",
+        "jobTitle": "Brand Creative",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t6.png",
+        "salary": "5000",
+        "description": "GitHub is looking for a Brand Creative to enhance our brand identity through compelling and creative visual content.",
+        "Overview": [
+            "Develop creative concepts that align with our brand strategy.",
+            "Collaborate with the marketing team to produce high-quality visual assets.",
+            "Ensure brand consistency across all creative materials."
+        ],
+        "role": [
+            "Create visual designs for branding and marketing campaigns.",
+            "Work closely with cross-functional teams to deliver creative solutions.",
+            "Manage design projects from concept through production."
+        ],
+        "Responsibilities": [
+            "Design and produce a variety of marketing materials, including digital and print.",
+            "Ensure all creative work meets brand guidelines and quality standards.",
+            "Stay updated on design trends and industry best practices."
+        ],
+        "have": [
+            "A strong portfolio showcasing brand and marketing design work.",
+            "Experience with graphic design tools and software.",
+            "Excellent creative and conceptual skills."
+        ],
+        "know": "GitHub is committed to building a diverse team and fostering an inclusive work environment."
+    },
+    {
+        "id": 7,
+        "company": "Snapchat",
+        "posted": "19 ago",
+        "jobTitle": "Senior Product Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t7.png",
+        "salary": "5000",
+        "description": "Snapchat is seeking a Senior Product Manager to lead product development and strategy for our platform, ensuring innovative and user-centered solutions.",
+        "Overview": [
+            "Drive product strategy and roadmap development.",
+            "Work closely with design, engineering, and marketing teams to deliver successful products.",
+            "Analyze market trends and user feedback to inform product decisions."
+        ],
+        "role": [
+            "Lead product development from ideation to launch.",
+            "Collaborate with cross-functional teams to ensure alignment and execution.",
+            "Define product vision and strategy based on user needs and business goals."
+        ],
+        "Responsibilities": [
+            "Manage the product lifecycle and prioritize features.",
+            "Conduct market research and user interviews to guide product decisions.",
+            "Monitor product performance and iterate based on feedback."
+        ],
+        "have": [
+            "Proven experience as a Product Manager with a track record of successful product launches.",
+            "Strong leadership and project management skills.",
+            "Ability to analyze data and market trends to make informed decisions."
+        ],
+        "know": "Snapchat is dedicated to fostering a diverse and inclusive work environment."
+    },
+        {
+            "id": 8,
+            "company": "Google",
+            "posted": "18 ago",
+            "jobTitle": "Software Engineer",
+            "applyType": "FAST APPLY",
+            "location": "Remote, (GMT-8) to (GMT+6)",
+            "jobType": "Full-time",
+            "experience": "Senior",
+            "remoteStatus": "Remote OK",
+            "logo": "/t8.png",
+            "salary": "5000",
+            "description": "Google is hiring a Software Engineer to contribute to cutting-edge projects and collaborate with talented teams to build innovative solutions.",
+            "Overview": [
+                "Develop and maintain software applications and systems.",
+                "Collaborate with engineers and stakeholders to design and implement features.",
+                "Apply best practices in software development and ensure code quality."
+            ],
+            "role": [
+                "Write and test code to develop software applications.",
+                "Participate in code reviews and contribute to technical design discussions.",
+                "Troubleshoot and resolve software defects and issues."
+            ],
+            "Responsibilities": [
+                "Design, develop, and deploy software solutions.",
+                "Work with cross-functional teams to define requirements and deliver features.",
+                "Maintain and improve existing software applications."
+            ],
+            "have": [
+                "Experience in software development with a strong technical background.",
+                "Proficiency in relevant programming languages and tools.",
+                "Problem-solving skills and attention to detail."
+            ],
+            "know": "Google is committed to creating a diverse and inclusive workplace and encourages all qualified individuals to apply."
+        },
+        {
+            "id": 9,
+            "company": "Facebook",
+            "posted": "18 ago",
+            "jobTitle": "Data Scientist",
+            "location": "Remote, (GMT-8) to (GMT+6)",
+            "jobType": "Full-time",
+            "experience": "Senior",
+            "logo": "/t1.png",
+            "description": "Facebook is looking for a Data Scientist to analyze complex data sets and drive strategic decision-making across the organization.",
+            "Overview": [
+                "Analyze and interpret complex data sets.",
+                "Collaborate with teams to derive actionable insights.",
+                "Apply statistical methods and machine learning techniques."
+            ],
+            "role": [
+                "Develop and implement data models and algorithms.",
+                "Present findings and recommendations to stakeholders.",
+                "Ensure data integrity and accuracy."
+            ],
+            "Responsibilities": [
+                "Design and conduct experiments to test hypotheses.",
+                "Work with large datasets and extract meaningful patterns.",
+                "Develop visualizations and reports for data-driven decisions."
+            ],
+            "have": [
+                "Strong background in statistics and data analysis.",
+                "Proficiency in data analysis tools and programming languages.",
+                "Experience with machine learning techniques."
+            ],
+            "know": "Facebook values diversity and is committed to creating an inclusive work environment for all employees."
+        },
+        {
+            "id": 10,
+            "company": "Microsoft",
+            "posted": "18 ago",
+            "jobTitle": "UX/UI Designer",
+            "applyType": "FAST APPLY",
+            "location": "Remote, (GMT-8) to (GMT+6)",
+            "jobType": "Full-time",
+            "experience": "Mid-level",
+            "remoteStatus": "Remote OK",
+            "logo": "/t2.png",
+            "description": "Microsoft is seeking a UX/UI Designer to create engaging user experiences and visually appealing interfaces for their products.",
+            "Overview": [
+                "Design user interfaces and interactions for software applications.",
+                "Conduct user research and usability testing.",
+                "Collaborate with development teams to implement design solutions."
+            ],
+            "role": [
+                "Create wireframes, prototypes, and high-fidelity designs.",
+                "Analyze user feedback and iterate on designs.",
+                "Ensure design consistency and adherence to best practices."
+            ],
+            "Responsibilities": [
+                "Develop user-centered design solutions.",
+                "Work with cross-functional teams to define design requirements.",
+                "Maintain and update design documentation."
+            ],
+            "have": [
+                "Proven experience in UX/UI design with a strong portfolio.",
+                "Proficiency in design tools and software.",
+                "Strong understanding of user-centered design principles."
+            ],
+            "know": "Microsoft is dedicated to fostering a diverse and inclusive work environment and encourages individuals from all backgrounds to apply."
+        },
+        {
+            "id": 11,
+            "company": "Amazon",
+            "posted": "18 ago",
+            "jobTitle": "Product Manager",
+            "location": "Remote, (GMT-8) to (GMT+6)",
+            "jobType": "Full-time",
+            "experience": "Senior",
+            "logo": "/t3.png",
+            "description": "Amazon is looking for a Product Manager to lead product strategy and development, working closely with engineering, marketing, and other teams.",
+            "Overview": [
+                "Define product vision and strategy.",
+                "Work with cross-functional teams to deliver product features.",
+                "Analyze market trends and customer needs."
+            ],
+            "role": [
+                "Develop and manage product roadmaps.",
+                "Coordinate with engineering and design teams to execute product plans.",
+                "Track product performance and iterate based on feedback."
+            ],
+            "Responsibilities": [
+                "Lead product development from concept to launch.",
+                "Manage stakeholder communication and expectations.",
+                "Ensure product aligns with business goals and user needs."
+            ],
+            "have": [
+                "Experience in product management with a strong track record.",
+                "Ability to analyze and interpret market data.",
+                "Excellent communication and leadership skills."
+            ],
+            "know": "Amazon values diversity and inclusion and welcomes applications from all qualified individuals."
+        },
+        {
+            "id": 12,
+            "company": "Apple",
+            "posted": "18 ago",
+            "jobTitle": "iOS Developer",
+            "applyType": "FAST APPLY",
+            "location": "Remote, (GMT-8) to (GMT+6)",
+            "jobType": "Full-time",
+            "experience": "Senior",
+            "remoteStatus": "Remote OK",
+            "logo": "/t4.png",
+            "description": "Apple is seeking a Senior iOS Developer to build high-quality mobile applications and collaborate with cross-functional teams.",
+            "Overview": [
+                "Develop and maintain iOS applications.",
+                "Collaborate with designers and product managers to create user-friendly interfaces.",
+                "Ensure code quality and performance optimization."
+            ],
+            "role": [
+                "Write and test code for iOS applications.",
+                "Participate in design and code reviews.",
+                "Troubleshoot and debug applications."
+            ],
+            "Responsibilities": [
+                "Develop new features and improve existing ones.",
+                "Work with QA teams to ensure application quality.",
+                "Stay updated with the latest iOS development trends and technologies."
+            ],
+            "have": [
+                "Extensive experience in iOS development with a strong portfolio.",
+                "Proficiency in Swift and Objective-C.",
+                "Strong problem-solving and analytical skills."
+            ],
+            "know": "Apple is committed to fostering a diverse and inclusive workforce and encourages all qualified applicants to apply."
+        },
+        {
+            "id": 13,
+            "company": "Netflix",
+            "posted": "18 ago",
+            "jobTitle": "Content Writer",
+            "location": "Remote, (GMT-8) to (GMT+6)",
+            "jobType": "Part-time",
+            "experience": "Junior",
+            "logo": "/t5.png",
+            "description": "Netflix is hiring a Content Writer to produce engaging and high-quality content for various platforms and audiences.",
+            "Overview": [
+                "Write and edit content for digital platforms.",
+                "Collaborate with content strategists and designers.",
+                "Research and incorporate industry trends."
+            ],
+            "role": [
+                "Create compelling written content for marketing and editorial purposes.",
+                "Edit and proofread content for accuracy and clarity.",
+                "Work with teams to ensure content meets brand guidelines."
+            ],
+            "Responsibilities": [
+                "Develop content ideas and strategies.",
+                "Manage content calendars and deadlines.",
+                "Analyze content performance and make recommendations."
+            ],
+            "have": [
+                "Strong writing and editing skills.",
+                "Ability to work independently and manage multiple projects.",
+                "Familiarity with content management systems."
+            ],
+            "know": "Netflix values diversity and is committed to building an inclusive team and workplace."
+        },
+        {
+            "id": 14,
+            "company": "Twitter",
+            "posted": "18 ago",
+            "jobTitle": "Social Media Specialist",
+            "location": "Remote, (GMT-8) to (GMT+6)",
+            "jobType": "Full-time",
+            "experience": "Mid-level",
+            "remoteStatus": "Remote OK",
+            "logo": "/t6.png",
+            "description": "Twitter is looking for a Social Media Specialist to develop and manage social media strategies and campaigns.",
+            "Overview": [
+                "Create and manage social media content across platforms.",
+                "Analyze social media performance and trends.",
+                "Collaborate with marketing and PR teams."
+            ],
+            "role": [
+                "Develop social media strategies and campaigns.",
+                "Monitor and engage with social media communities.",
+                "Generate reports on social media metrics and performance."
+            ],
+            "Responsibilities": [
+                "Increase brand awareness and engagement through social media.",
+                "Create and schedule posts and manage content calendars.",
+                "Stay updated on social media trends and best practices."
+            ],
+            "have": [
+                "Experience in social media management and strategy.",
+                "Strong understanding of social media platforms and tools.",
+                "Excellent communication and organizational skills."
+            ],
+            "know": "Twitter is committed to diversity and inclusion and encourages all qualified candidates to apply."
+        },
+        {
+            "id": 15,
+            "company": "LinkedIn",
+            "posted": "18 ago",
+            "jobTitle": "HR Manager",
+            "location": "Remote, (GMT-8) to (GMT+6)",
+            "jobType": "Full-time",
+            "experience": "Senior",
+            "logo": "/t7.png",
+            "description": "LinkedIn is seeking an HR Manager to oversee employee relations, talent acquisition, and HR programs.",
+            "Overview": [
+                "Manage recruitment, onboarding, and employee relations.",
+                "Develop and implement HR policies and programs.",
+                "Collaborate with leadership on strategic HR initiatives."
+            ],
+            "role": [
+                "Oversee HR operations and employee support.",
+                "Develop strategies for talent acquisition and retention.",
+                "Address employee concerns and manage performance evaluations."
+            ],
+            "Responsibilities": [
+                "Implement HR best practices and ensure compliance.",
+                "Manage HR reporting and analytics.",
+                "Foster a positive work environment and company culture."
+            ],
+            "have": [
+                "Extensive experience in HR management.",
+                "Strong understanding of employment laws and regulations.",
+                "Excellent interpersonal and communication skills."
+            ],
+            "know": "LinkedIn values diversity and is dedicated to creating an inclusive work environment for all employees."
+        }
+    ,
+    
+    {
+        "id": 16,
+        "company": "Adobe",
+        "posted": "17 ago",
+        "jobTitle": "Graphic Designer",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Contract",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t8.png",
+        "description": "Adobe is hiring a Graphic Designer to create visually compelling designs and graphics for various media platforms.",
+        "Overview": [
+            "Design graphics and visual content for digital and print media.",
+            "Collaborate with creative teams to develop design concepts.",
+            "Ensure designs meet brand guidelines and project requirements."
+        ],
+        "role": [
+            "Create and edit graphics, illustrations, and layouts.",
+            "Work on various design projects including marketing materials.",
+            "Participate in design reviews and provide feedback."
+        ],
+        "Responsibilities": [
+            "Develop visual designs for web, mobile, and print.",
+            "Manage multiple design projects and meet deadlines.",
+            "Collaborate with stakeholders to understand design needs."
+        ],
+        "have": [
+            "Strong portfolio showcasing graphic design skills.",
+            "Proficiency in Adobe Creative Suite and other design tools.",
+            "Good understanding of design principles and trends."
+        ],
+        "know": "Adobe values diversity and encourages all qualified individuals to apply."
+    },
+    {
+        "id": 17,
+        "company": "Slack",
+        "posted": "17 ago",
+        "jobTitle": "Customer Support Specialist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Junior",
+        "logo": "/t1.png",
+        "description": "Slack is seeking a Customer Support Specialist to provide excellent service and support to their customers.",
+        "Overview": [
+            "Respond to customer inquiries and resolve issues.",
+            "Provide technical support and guidance.",
+            "Collaborate with team members to improve support processes."
+        ],
+        "role": [
+            "Handle customer support tickets and inquiries.",
+            "Troubleshoot and resolve customer issues.",
+            "Document and report common issues and resolutions."
+        ],
+        "Responsibilities": [
+            "Deliver high-quality customer service and support.",
+            "Assist in improving customer support documentation.",
+            "Monitor and follow up on support tickets."
+        ],
+        "have": [
+            "Excellent communication and problem-solving skills.",
+            "Ability to handle multiple tasks and work in a fast-paced environment.",
+            "Experience with customer support tools and systems."
+        ],
+        "know": "Slack is committed to creating an inclusive work environment and encourages diverse candidates to apply."
+    },
+    {
+        "id": 18,
+        "company": "Zoom",
+        "posted": "17 ago",
+        "jobTitle": "Software Developer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t2.png",
+        "description": "Zoom is hiring a Senior Software Developer to build and enhance software solutions and collaborate with cross-functional teams.",
+        "Overview": [
+            "Develop and maintain software applications.",
+            "Collaborate with teams to design and implement features.",
+            "Ensure high code quality and performance."
+        ],
+        "role": [
+            "Write and test code for software applications.",
+            "Participate in design and code review meetings.",
+            "Troubleshoot and fix software issues."
+        ],
+        "Responsibilities": [
+            "Lead the development of new software features.",
+            "Work closely with other engineers and product teams.",
+            "Optimize and refactor existing code."
+        ],
+        "have": [
+            "Proven experience in software development with a strong technical background.",
+            "Proficiency in relevant programming languages and tools.",
+            "Strong problem-solving and analytical skills."
+        ],
+        "know": "Zoom values diversity and is dedicated to creating an inclusive environment for all employees."
+    },
+    {
+        "id": 19,
+        "company": "Shopify",
+        "posted": "17 ago",
+        "jobTitle": "Content Marketing Manager",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t3.png",
+        "description": "Shopify is looking for a Content Marketing Manager to develop and execute content strategies that drive engagement and growth.",
+        "Overview": [
+            "Create and manage content marketing strategies.",
+            "Collaborate with content creators and marketing teams.",
+            "Measure and analyze content performance."
+        ],
+        "role": [
+            "Develop and implement content marketing campaigns.",
+            "Work with cross-functional teams to produce content.",
+            "Monitor and report on content effectiveness."
+        ],
+        "Responsibilities": [
+            "Lead content strategy and production.",
+            "Enhance content reach and engagement.",
+            "Optimize content based on analytics and feedback."
+        ],
+        "have": [
+            "Experience in content marketing with a strong portfolio.",
+            "Excellent writing, editing, and communication skills.",
+            "Ability to analyze and interpret content metrics."
+        ],
+        "know": "Shopify is committed to building a diverse team and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 20,
+        "company": "Dropbox",
+        "posted": "17 ago",
+        "jobTitle": "Product Designer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Contract",
+        "experience": "Contract",
+        "logo": "/t4.png",
+        "description": "Dropbox is hiring a Product Designer to create user-centric designs and improve the usability of their products.",
+        "Overview": [
+            "Design and iterate on product features and interfaces.",
+            "Collaborate with product managers and engineers.",
+            "Conduct user research and usability testing."
+        ],
+        "role": [
+            "Create wireframes, prototypes, and high-fidelity designs.",
+            "Work on design sprints and product design reviews.",
+            "Ensure designs align with user needs and business goals."
+        ],
+        "Responsibilities": [
+            "Lead the design process for new features.",
+            "Coordinate with cross-functional teams to ensure design quality.",
+            "Keep up-to-date with design trends and best practices."
+        ],
+        "have": [
+            "Strong portfolio showcasing design skills.",
+            "Experience with design tools and software.",
+            "Ability to work independently and manage projects."
+        ],
+        "know": "Dropbox values diversity and inclusion and welcomes applications from all qualified individuals."
+    },
+    {
+        "id": 21,
+        "company": "Uber",
+        "posted": "17 ago",
+        "jobTitle": "Operations Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t5.png",
+        "description": "Uber is seeking a Senior Operations Manager to oversee operational processes and drive efficiency across teams.",
+        "Overview": [
+            "Manage and optimize operational workflows.",
+            "Collaborate with various teams to ensure smooth operations.",
+            "Analyze performance metrics and implement improvements."
+        ],
+        "role": [
+            "Oversee daily operations and project management.",
+            "Develop and implement operational strategies.",
+            "Monitor and report on operational performance."
+        ],
+        "Responsibilities": [
+            "Lead operations teams and manage resources.",
+            "Identify and address operational challenges.",
+            "Enhance process efficiency and productivity."
+        ],
+        "have": [
+            "Experience in operations management with strong leadership skills.",
+            "Ability to analyze data and drive process improvements.",
+            "Excellent organizational and communication skills."
+        ],
+        "know": "Uber is committed to creating a diverse and inclusive work environment and encourages all qualified individuals to apply."
+    },
+    {
+        "id": 22,
+        "company": "Square",
+        "posted": "17 ago",
+        "jobTitle": "Financial Analyst",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t6.png",
+        "description": "Square is hiring a Financial Analyst to analyze financial data and provide insights to support business decisions.",
+        "Overview": [
+            "Analyze financial statements and performance metrics.",
+            "Prepare financial reports and forecasts.",
+            "Collaborate with finance and business teams."
+        ],
+        "role": [
+            "Develop financial models and analyses.",
+            "Monitor financial performance and trends.",
+            "Assist in budgeting and financial planning."
+        ],
+        "Responsibilities": [
+            "Conduct financial analysis and reporting.",
+            "Support strategic financial planning and decision-making.",
+            "Ensure accuracy and integrity of financial data."
+        ],
+        "have": [
+            "Strong background in financial analysis and reporting.",
+            "Proficiency in financial modeling and analysis tools.",
+            "Excellent analytical and problem-solving skills."
+        ],
+        "know": "Square values diversity and is committed to fostering an inclusive workplace."
+    },
+    {
+        "id": 23,
+        "company": "Stripe",
+        "posted": "17 ago",
+        "jobTitle": "Front-End Developer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t7.png",
+        "description": "Stripe is looking for a Senior Front-End Developer to build and enhance user-facing features and improve the user experience.",
+        "Overview": [
+            "Develop and maintain front-end code for web applications.",
+            "Work closely with UX/UI designers and back-end developers.",
+            "Optimize front-end performance and usability."
+        ],
+        "role": [
+            "Write clean, efficient, and maintainable front-end code.",
+            "Participate in code reviews and design discussions.",
+            "Troubleshoot and debug front-end issues."
+        ],
+        "Responsibilities": [
+            "Lead the development of new front-end features.",
+            "Ensure a high-quality user experience across platforms.",
+            "Collaborate with cross-functional teams to meet project goals."
+        ],
+        "have": [
+            "Strong experience in front-end development with relevant technologies.",
+            "Proficiency in JavaScript, HTML, and CSS.",
+            "Excellent problem-solving and debugging skills."
+        ],
+        "know": "Stripe is committed to creating an inclusive environment and encourages diverse candidates to apply."
+    },
+    {
+        "id": 24,
+        "company": "Airbnb",
+        "posted": "17 ago",
+        "jobTitle": "UX Researcher",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Contract",
+        "experience": "Contract",
+        "logo": "/t8.png",
+        "description": "Airbnb is hiring a UX Researcher to conduct user research and provide insights to inform design decisions.",
+        "Overview": [
+            "Conduct qualitative and quantitative user research.",
+            "Analyze research findings and present insights.",
+            "Collaborate with design and product teams to improve user experience."
+        ],
+        "role": [
+            "Plan and execute user research studies.",
+            "Gather and analyze user feedback and behavior.",
+            "Communicate research findings to stakeholders."
+        ],
+        "Responsibilities": [
+            "Lead UX research projects from start to finish.",
+            "Provide actionable insights to enhance user experience.",
+            "Stay updated with industry research methods and trends."
+        ],
+        "have": [
+            "Experience in UX research with a strong portfolio.",
+            "Proficiency in research methodologies and tools.",
+            "Excellent analytical and communication skills."
+        ],
+        "know": "Airbnb is committed to diversity and inclusion and welcomes applications from all qualified individuals."
+    },
+    {
+        "id": 25,
+        "company": "LinkedIn",
+        "posted": "17 ago",
+        "jobTitle": "Data Analyst",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t1.png",
+        "description": "LinkedIn is seeking a Data Analyst to analyze data and provide actionable insights to support business objectives.",
+        "Overview": [
+            "Analyze complex data sets and generate reports.",
+            "Provide insights and recommendations based on data analysis.",
+            "Collaborate with teams to support data-driven decision making."
+        ],
+        "role": [
+            "Develop and maintain data models and reports.",
+            "Conduct data analysis and interpret results.",
+            "Present findings and recommendations to stakeholders."
+        ],
+        "Responsibilities": [
+            "Lead data analysis projects and deliver actionable insights.",
+            "Ensure data accuracy and integrity.",
+            "Support strategic planning with data-driven insights."
+        ],
+        "have": [
+            "Strong experience in data analysis and reporting.",
+            "Proficiency in data analysis tools and techniques.",
+            "Excellent problem-solving and analytical skills."
+        ],
+        "know": "LinkedIn values diversity and encourages candidates from all backgrounds to apply."
+    },
+    {
+        "id": 26,
+        "company": "Mailchimp",
+        "posted": "16 ago",
+        "jobTitle": "Backend Developer",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t2.png",
+        "description": "Mailchimp is hiring a Senior Backend Developer to develop and maintain server-side applications and services.",
+        "Overview": [
+            "Develop and optimize server-side applications.",
+            "Collaborate with front-end developers and product teams.",
+            "Ensure backend systems are scalable and reliable."
+        ],
+        "role": [
+            "Write and maintain backend code.",
+            "Participate in design and architecture discussions.",
+            "Troubleshoot and resolve backend issues."
+        ],
+        "Responsibilities": [
+            "Lead backend development projects and ensure code quality.",
+            "Work with cross-functional teams to meet technical requirements.",
+            "Implement and monitor backend performance metrics."
+        ],
+        "have": [
+            "Extensive experience in backend development with strong technical skills.",
+            "Proficiency in relevant programming languages and frameworks.",
+            "Excellent problem-solving and debugging abilities."
+        ],
+        "know": "Mailchimp values diversity and inclusion and encourages all qualified individuals to apply."
+    },
+    {
+        "id": 27,
+        "company": "Shopify",
+        "posted": "16 ago",
+        "jobTitle": "Lead UI Designer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Contract",
+        "experience": "Contract",
+        "logo": "/t3.png",
+        "description": "Shopify is seeking a Lead UI Designer to guide the design process and ensure a cohesive and engaging user interface.",
+        "Overview": [
+            "Lead the UI design process and manage design projects.",
+            "Collaborate with UX designers and product teams.",
+            "Ensure design consistency and quality across platforms."
+        ],
+        "role": [
+            "Create and oversee UI design elements.",
+            "Guide design reviews and feedback sessions.",
+            "Maintain design documentation and guidelines."
+        ],
+        "Responsibilities": [
+            "Lead UI design efforts and mentor junior designers.",
+            "Ensure UI designs meet user needs and business goals.",
+            "Stay current with design trends and best practices."
+        ],
+        "have": [
+            "Strong portfolio with UI design examples.",
+            "Experience in leading design projects and teams.",
+            "Proficiency in design tools and software."
+        ],
+        "know": "Shopify values diversity and inclusion and welcomes applications from all qualified candidates."
+    },
+    {
+        "id": 28,
+        "company": "Intercom",
+        "posted": "16 ago",
+        "jobTitle": "Customer Success Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Leadership",
+        "remoteStatus": "Remote OK",
+        "logo": "/t4.png",
+        "description": "Intercom is hiring a Customer Success Manager to lead customer success initiatives and ensure high levels of customer satisfaction.",
+        "Overview": [
+            "Develop and execute customer success strategies.",
+            "Manage customer relationships and ensure satisfaction.",
+            "Collaborate with sales and support teams to drive customer success."
+        ],
+        "role": [
+            "Lead customer success efforts and manage client accounts.",
+            "Develop strategies to enhance customer engagement.",
+            "Monitor and analyze customer feedback and satisfaction."
+        ],
+        "Responsibilities": [
+            "Oversee customer success operations and team performance.",
+            "Implement initiatives to improve customer retention.",
+            "Provide strategic insights and recommendations."
+        ],
+        "have": [
+            "Extensive experience in customer success or account management.",
+            "Strong leadership and communication skills.",
+            "Ability to manage multiple client relationships and projects."
+        ],
+        "know": "Intercom is committed to diversity and inclusion and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 29,
+        "company": "Airbnb",
+        "posted": "16 ago",
+        "jobTitle": "Community Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Part-time",
+        "experience": "Junior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t5.png",
+        "description": "Airbnb is seeking a Community Manager to build and manage relationships within the community and enhance user engagement.",
+        "Overview": [
+            "Develop and execute community engagement strategies.",
+            "Manage and grow community presence on various platforms.",
+            "Provide support and address community feedback."
+        ],
+        "role": [
+            "Engage with community members and manage interactions.",
+            "Develop content and activities to drive engagement.",
+            "Monitor and report on community metrics."
+        ],
+        "Responsibilities": [
+            "Foster a positive community environment.",
+            "Handle community issues and feedback.",
+            "Coordinate with other teams to address community needs."
+        ],
+        "have": [
+            "Strong interpersonal and communication skills.",
+            "Experience in community management or related roles.",
+            "Ability to work independently and manage time effectively."
+        ],
+        "know": "Airbnb is dedicated to creating an inclusive environment and encourages diverse candidates to apply."
+    },
+    {
+        "id": 30,
+        "company": "Telegram",
+        "posted": "16 ago",
+        "jobTitle": "Product Marketing Manager",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Internship",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t6.png",
+        "description": "Telegram is hiring a Product Marketing Manager Intern to assist in developing marketing strategies and campaigns for their products.",
+        "Overview": [
+            "Assist in creating and executing product marketing strategies.",
+            "Collaborate with marketing and product teams.",
+            "Analyze marketing performance and provide insights."
+        ],
+        "role": [
+            "Support marketing campaigns and product launches.",
+            "Help develop marketing materials and content.",
+            "Track and report on marketing metrics."
+        ],
+        "Responsibilities": [
+            "Assist in the development of marketing strategies.",
+            "Coordinate with teams to implement marketing initiatives.",
+            "Provide support in analyzing and optimizing marketing efforts."
+        ],
+        "have": [
+            "Experience or coursework in marketing and communications.",
+            "Strong analytical and organizational skills.",
+            "Ability to work in a fast-paced environment."
+        ],
+        "know": "Telegram values diversity and encourages candidates from all backgrounds to apply."
+    },
+    {
+        "id": 31,
+        "company": "GitHub",
+        "posted": "16 ago",
+        "jobTitle": "Content Strategist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t7.png",
+        "description": "GitHub is looking for a Senior Content Strategist to develop and implement content strategies that align with business goals.",
+        "Overview": [
+            "Develop and manage content strategies.",
+            "Collaborate with marketing and product teams.",
+            "Ensure content aligns with brand voice and business objectives."
+        ],
+        "role": [
+            "Create and oversee content strategy and execution.",
+            "Analyze content performance and optimize strategy.",
+            "Coordinate with other teams to ensure content consistency."
+        ],
+        "Responsibilities": [
+            "Lead content strategy development and implementation.",
+            "Measure and report on content effectiveness.",
+            "Provide guidance on content best practices."
+        ],
+        "have": [
+            "Proven experience in content strategy and management.",
+            "Strong understanding of content marketing and analytics.",
+            "Excellent written and verbal communication skills."
+        ],
+        "know": "GitHub values diversity and encourages candidates from all backgrounds to apply."
+    },
+    {
+        "id": 32,
+        "company": "Snapchat",
+        "posted": "16 ago",
+        "jobTitle": "Senior UX Designer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t8.png",
+        "description": "Snapchat is hiring a Senior UX Designer to design and improve user experiences for our applications.",
+        "Overview": [
+            "Design user interfaces and experiences for mobile and web applications.",
+            "Collaborate with product managers and developers.",
+            "Conduct user research and usability testing."
+        ],
+        "role": [
+            "Create wireframes, prototypes, and design specifications.",
+            "Lead UX design projects and provide design leadership.",
+            "Analyze user feedback and integrate it into design solutions."
+        ],
+        "Responsibilities": [
+            "Drive the UX design process and ensure user-centric designs.",
+            "Mentor junior designers and provide design guidance.",
+            "Ensure design consistency and alignment with brand guidelines."
+        ],
+        "have": [
+            "Extensive experience in UX design with a strong portfolio.",
+            "Proficiency in design tools and user research methods.",
+            "Strong problem-solving and communication skills."
+        ],
+        "know": "Snapchat is committed to fostering an inclusive work environment and encourages diverse candidates to apply."
+    },
+    {
+        "id": 33,
+        "company": "Google",
+        "posted": "16 ago",
+        "jobTitle": "Machine Learning Engineer",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t1.png",
+        "description": "Google is seeking a Senior Machine Learning Engineer to develop and implement machine learning models and algorithms.",
+        "Overview": [
+            "Design and implement machine learning algorithms.",
+            "Collaborate with data scientists and engineers.",
+            "Optimize and deploy machine learning models."
+        ],
+        "role": [
+            "Develop and train machine learning models.",
+            "Conduct experiments and analyze results.",
+            "Collaborate with teams to integrate models into production systems."
+        ],
+        "Responsibilities": [
+            "Lead machine learning projects and ensure model performance.",
+            "Implement best practices in machine learning and data processing.",
+            "Stay current with industry trends and technologies."
+        ],
+        "have": [
+            "Strong experience in machine learning and data science.",
+            "Proficiency in relevant programming languages and frameworks.",
+            "Excellent analytical and problem-solving skills."
+        ],
+        "know": "Google values diversity and inclusion and welcomes applications from all qualified individuals."
+    },
+    {
+        "id": 34,
+        "company": "Facebook",
+        "posted": "16 ago",
+        "jobTitle": "Product Marketing Analyst",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t2.png",
+        "description": "Facebook is hiring a Senior Product Marketing Analyst to drive product marketing strategies and analyze market trends.",
+        "Overview": [
+            "Develop and implement product marketing strategies.",
+            "Analyze market trends and customer needs.",
+            "Collaborate with product and marketing teams."
+        ],
+        "role": [
+            "Conduct market research and analyze competitive landscape.",
+            "Create marketing reports and provide actionable insights.",
+            "Support product launches and marketing campaigns."
+        ],
+        "Responsibilities": [
+            "Lead product marketing analysis and strategy development.",
+            "Monitor and report on product performance and market trends.",
+            "Work closely with cross-functional teams to achieve business goals."
+        ],
+        "have": [
+            "Extensive experience in product marketing and analysis.",
+            "Strong analytical skills and proficiency in data analysis tools.",
+            "Excellent communication and project management skills."
+        ],
+        "know": "Facebook values diversity and encourages candidates from all backgrounds to apply."
+    },
+    {
+        "id": 35,
+        "company": "Microsoft",
+        "posted": "15 ago",
+        "jobTitle": "Cloud Solutions Architect",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t3.png",
+        "description": "Microsoft is seeking a Cloud Solutions Architect to design and implement cloud-based solutions for clients.",
+        "Overview": [
+            "Design cloud architecture and solutions for clients.",
+            "Collaborate with engineering and product teams.",
+            "Ensure solutions meet business requirements and technical standards."
+        ],
+        "role": [
+            "Architect and deploy cloud solutions.",
+            "Provide technical guidance and support to clients.",
+            "Evaluate and recommend cloud technologies and services."
+        ],
+        "Responsibilities": [
+            "Lead cloud solution design and implementation.",
+            "Ensure cloud solutions are scalable, secure, and cost-effective.",
+            "Work with clients to understand their cloud needs and requirements."
+        ],
+        "have": [
+            "Experience in cloud architecture and solutions.",
+            "Proficiency in cloud platforms and technologies.",
+            "Strong problem-solving and communication skills."
+        ],
+        "know": "Microsoft is committed to diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 36,
+        "company": "Amazon",
+        "posted": "15 ago",
+        "jobTitle": "Business Development Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t4.png",
+        "description": "Amazon is hiring a Senior Business Development Manager to drive growth and develop strategic business partnerships.",
+        "Overview": [
+            "Identify and develop new business opportunities.",
+            "Manage relationships with key partners and stakeholders.",
+            "Develop and implement business strategies and plans."
+        ],
+        "role": [
+            "Lead business development initiatives and negotiations.",
+            "Analyze market trends and identify growth opportunities.",
+            "Collaborate with internal teams to drive business success."
+        ],
+        "Responsibilities": [
+            "Develop and execute business development strategies.",
+            "Build and maintain strong relationships with partners.",
+            "Monitor and report on business development performance."
+        ],
+        "have": [
+            "Proven experience in business development and partnership management.",
+            "Strong negotiation and relationship-building skills.",
+            "Excellent strategic thinking and problem-solving abilities."
+        ],
+        "know": "Amazon values diversity and encourages applications from all qualified individuals."
+    },
+    {
+        "id": 37,
+        "company": "Apple",
+        "posted": "15 ago",
+        "jobTitle": "Quality Assurance Engineer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t5.png",
+        "description": "Apple is seeking a Senior Quality Assurance Engineer to ensure the quality and reliability of our software products.",
+        "Overview": [
+            "Design and implement test plans and procedures.",
+            "Collaborate with development teams to identify and resolve issues.",
+            "Perform manual and automated testing."
+        ],
+        "role": [
+            "Develop and execute test cases and scripts.",
+            "Identify and document software defects and issues.",
+            "Ensure products meet quality standards and specifications."
+        ],
+        "Responsibilities": [
+            "Lead QA testing efforts and ensure product quality.",
+            "Work with development teams to resolve issues.",
+            "Stay updated with industry best practices and testing tools."
+        ],
+        "have": [
+            "Extensive experience in quality assurance and testing.",
+            "Proficiency in testing tools and methodologies.",
+            "Strong analytical and problem-solving skills."
+        ],
+        "know": "Apple values diversity and encourages all qualified individuals to apply."
+    },
+    {
+        "id": 38,
+        "company": "Netflix",
+        "posted": "15 ago",
+        "jobTitle": "Video Editor",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Part-time",
+        "experience": "Junior",
+        "logo": "/t6.png",
+        "description": "Netflix is hiring a Junior Video Editor to assist in editing and producing engaging video content.",
+        "Overview": [
+            "Edit and assemble video footage into finished products.",
+            "Collaborate with creative teams to achieve desired outcomes.",
+            "Ensure videos meet technical and quality standards."
+        ],
+        "role": [
+            "Perform video editing tasks and manage video files.",
+            "Assist in creating video content for various platforms.",
+            "Ensure timely delivery of video projects."
+        ],
+        "Responsibilities": [
+            "Edit video footage and audio tracks.",
+            "Work with creative teams to develop video concepts.",
+            "Review and revise video content based on feedback."
+        ],
+        "have": [
+            "Basic experience in video editing and production.",
+            "Proficiency in video editing software.",
+            "Strong attention to detail and creativity."
+        ],
+        "know": "Netflix values diversity and encourages applicants from all backgrounds to apply."
+    },
+    {
+        "id": 39,
+        "company": "Twitter",
+        "posted": "15 ago",
+        "jobTitle": "Digital Marketing Specialist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t7.png",
+        "description": "Twitter is seeking a Mid-level Digital Marketing Specialist to manage and execute digital marketing campaigns.",
+        "Overview": [
+            "Develop and implement digital marketing strategies.",
+            "Analyze campaign performance and adjust strategies.",
+            "Collaborate with marketing teams and external partners."
+        ],
+        "role": [
+            "Manage digital marketing campaigns and initiatives.",
+            "Track and report on campaign performance metrics.",
+            "Develop marketing content and materials."
+        ],
+        "Responsibilities": [
+            "Lead digital marketing projects and campaigns.",
+            "Monitor and optimize digital marketing performance.",
+            "Coordinate with teams to ensure successful execution of campaigns."
+        ],
+        "have": [
+            "Experience in digital marketing and campaign management.",
+            "Proficiency in marketing tools and analytics platforms.",
+            "Strong organizational and communication skills."
+        ],
+        "know": "Twitter is committed to diversity and encourages candidates from all backgrounds to apply."
+    },
+    {
+        "id": 40,
+        "company": "LinkedIn",
+        "posted": "15 ago",
+        "jobTitle": "Recruitment Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t8.png",
+        "description": "LinkedIn is hiring a Senior Recruitment Manager to oversee the recruitment process and manage talent acquisition strategies.",
+        "Overview": [
+            "Develop and implement recruitment strategies.",
+            "Manage the recruitment team and hiring processes.",
+            "Build relationships with hiring managers and candidates."
+        ],
+        "role": [
+            "Lead and manage recruitment initiatives.",
+            "Ensure efficient and effective hiring processes.",
+            "Develop and maintain talent pipelines."
+        ],
+        "Responsibilities": [
+            "Oversee the recruitment process and team performance.",
+            "Develop strategies to attract and retain top talent.",
+            "Coordinate with stakeholders to meet hiring needs."
+        ],
+        "have": [
+            "Proven experience in recruitment and talent management.",
+            "Strong leadership and communication skills.",
+            "Ability to develop and execute recruitment strategies."
+        ],
+        "know": "LinkedIn values diversity and encourages applications from all qualified individuals."
+    },
+    {
+        "id": 41,
+        "company": "Adobe",
+        "posted": "15 ago",
+        "jobTitle": "UI Designer",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Contract",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t1.png",
+        "description": "Adobe is seeking a Mid-level UI Designer to design intuitive and visually appealing user interfaces for our applications.",
+        "Overview": [
+            "Design user interfaces for web and mobile applications.",
+            "Collaborate with UX designers and developers.",
+            "Ensure designs meet user needs and business goals."
+        ],
+        "role": [
+            "Create and refine UI designs and prototypes.",
+            "Work with development teams to ensure design implementation.",
+            "Review and iterate on designs based on user feedback."
+        ],
+        "Responsibilities": [
+            "Develop and deliver UI design solutions.",
+            "Ensure designs are user-friendly and aligned with brand standards.",
+            "Participate in design reviews and provide constructive feedback."
+        ],
+        "have": [
+            "Experience in UI design with a strong portfolio.",
+            "Proficiency in design tools and prototyping software.",
+            "Strong attention to detail and design principles."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 42,
+        "company": "Slack",
+        "posted": "14 ago",
+        "jobTitle": "Technical Support Engineer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Junior",
+        "logo": "/t2.png",
+        "description": "Slack is hiring a Junior Technical Support Engineer to provide technical assistance and support to customers.",
+        "Overview": [
+            "Assist customers with technical issues and inquiries.",
+            "Collaborate with engineering teams to resolve technical problems.",
+            "Provide high-quality customer support and solutions."
+        ],
+        "role": [
+            "Respond to customer support requests and troubleshoot issues.",
+            "Document and escalate technical problems as needed.",
+            "Work with engineering teams to resolve complex issues."
+        ],
+        "Responsibilities": [
+            "Deliver excellent technical support to customers.",
+            "Resolve technical issues in a timely and effective manner.",
+            "Maintain accurate records of support interactions and solutions."
+        ],
+        "have": [
+            "Basic technical knowledge and problem-solving skills.",
+            "Excellent communication and customer service abilities.",
+            "Ability to learn and adapt to new technologies."
+        ],
+        "know": "Slack values diversity and encourages candidates from all backgrounds to apply."
+    },
+    {
+        "id": 43,
+        "company": "Zoom",
+        "posted": "14 ago",
+        "jobTitle": "DevOps Engineer",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t3.png",
+        "description": "Zoom is seeking a Senior DevOps Engineer to manage and improve our development and deployment processes.",
+        "Overview": [
+            "Design and implement DevOps practices and tools.",
+            "Collaborate with development and operations teams.",
+            "Automate and optimize deployment processes."
+        ],
+        "role": [
+            "Manage and enhance continuous integration and delivery pipelines.",
+            "Monitor system performance and ensure reliability.",
+            "Implement best practices for infrastructure management and automation."
+        ],
+        "Responsibilities": [
+            "Lead DevOps initiatives and projects.",
+            "Ensure smooth deployment and operation of applications.",
+            "Troubleshoot and resolve infrastructure and deployment issues."
+        ],
+        "have": [
+            "Extensive experience in DevOps and cloud technologies.",
+            "Proficiency in automation tools and scripting languages.",
+            "Strong problem-solving and communication skills."
+        ],
+        "know": "Zoom values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 31,
+        "company": "GitHub",
+        "posted": "16 ago",
+        "jobTitle": "Content Strategist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t7.png",
+        "description": "GitHub is looking for a Senior Content Strategist to develop and implement content strategies that align with business goals.",
+        "Overview": [
+            "Develop and manage content strategies.",
+            "Collaborate with marketing and product teams.",
+            "Ensure content aligns with brand voice and business objectives."
+        ],
+        "role": [
+            "Create and oversee content strategy and execution.",
+            "Analyze content performance and optimize strategy.",
+            "Coordinate with other teams to ensure content consistency."
+        ],
+        "Responsibilities": [
+            "Lead content strategy development and implementation.",
+            "Measure and report on content effectiveness.",
+            "Provide guidance on content best practices."
+        ],
+        "have": [
+            "Proven experience in content strategy and management.",
+            "Strong understanding of content marketing and analytics.",
+            "Excellent written and verbal communication skills."
+        ],
+        "know": "GitHub values diversity and encourages candidates from all backgrounds to apply."
+    },
+    {
+        "id": 32,
+        "company": "Snapchat",
+        "posted": "16 ago",
+        "jobTitle": "Senior UX Designer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t8.png",
+        "description": "Snapchat is hiring a Senior UX Designer to design and improve user experiences for our applications.",
+        "Overview": [
+            "Design user interfaces and experiences for mobile and web applications.",
+            "Collaborate with product managers and developers.",
+            "Conduct user research and usability testing."
+        ],
+        "role": [
+            "Create wireframes, prototypes, and design specifications.",
+            "Lead UX design projects and provide design leadership.",
+            "Analyze user feedback and integrate it into design solutions."
+        ],
+        "Responsibilities": [
+            "Drive the UX design process and ensure user-centric designs.",
+            "Mentor junior designers and provide design guidance.",
+            "Ensure design consistency and alignment with brand guidelines."
+        ],
+        "have": [
+            "Extensive experience in UX design with a strong portfolio.",
+            "Proficiency in design tools and user research methods.",
+            "Strong problem-solving and communication skills."
+        ],
+        "know": "Snapchat is committed to fostering an inclusive work environment and encourages diverse candidates to apply."
+    },
+    {
+        "id": 33,
+        "company": "Google",
+        "posted": "16 ago",
+        "jobTitle": "Machine Learning Engineer",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t1.png",
+        "description": "Google is seeking a Senior Machine Learning Engineer to develop and implement machine learning models and algorithms.",
+        "Overview": [
+            "Design and implement machine learning algorithms.",
+            "Collaborate with data scientists and engineers.",
+            "Optimize and deploy machine learning models."
+        ],
+        "role": [
+            "Develop and train machine learning models.",
+            "Conduct experiments and analyze results.",
+            "Collaborate with teams to integrate models into production systems."
+        ],
+        "Responsibilities": [
+            "Lead machine learning projects and ensure model performance.",
+            "Implement best practices in machine learning and data processing.",
+            "Stay current with industry trends and technologies."
+        ],
+        "have": [
+            "Strong experience in machine learning and data science.",
+            "Proficiency in relevant programming languages and frameworks.",
+            "Excellent analytical and problem-solving skills."
+        ],
+        "know": "Google values diversity and inclusion and welcomes applications from all qualified individuals."
+    },
+    {
+        "id": 34,
+        "company": "Facebook",
+        "posted": "16 ago",
+        "jobTitle": "Product Marketing Analyst",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t2.png",
+        "description": "Facebook is hiring a Senior Product Marketing Analyst to drive product marketing strategies and analyze market trends.",
+        "Overview": [
+            "Develop and implement product marketing strategies.",
+            "Analyze market trends and customer needs.",
+            "Collaborate with product and marketing teams."
+        ],
+        "role": [
+            "Conduct market research and analyze competitive landscape.",
+            "Create marketing reports and provide actionable insights.",
+            "Support product launches and marketing campaigns."
+        ],
+        "Responsibilities": [
+            "Lead product marketing analysis and strategy development.",
+            "Monitor and report on product performance and market trends.",
+            "Work closely with cross-functional teams to achieve business goals."
+        ],
+        "have": [
+            "Extensive experience in product marketing and analysis.",
+            "Strong analytical skills and proficiency in data analysis tools.",
+            "Excellent communication and project management skills."
+        ],
+        "know": "Facebook values diversity and encourages candidates from all backgrounds to apply."
+    },
+    {
+        "id": 35,
+        "company": "Microsoft",
+        "posted": "15 ago",
+        "jobTitle": "Cloud Solutions Architect",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t3.png",
+        "description": "Microsoft is seeking a Cloud Solutions Architect to design and implement cloud-based solutions for clients.",
+        "Overview": [
+            "Design cloud architecture and solutions for clients.",
+            "Collaborate with engineering and product teams.",
+            "Ensure solutions meet business requirements and technical standards."
+        ],
+        "role": [
+            "Architect and deploy cloud solutions.",
+            "Provide technical guidance and support to clients.",
+            "Evaluate and recommend cloud technologies and services."
+        ],
+        "Responsibilities": [
+            "Lead cloud solution design and implementation.",
+            "Ensure cloud solutions are scalable, secure, and cost-effective.",
+            "Work with clients to understand their cloud needs and requirements."
+        ],
+        "have": [
+            "Experience in cloud architecture and solutions.",
+            "Proficiency in cloud platforms and technologies.",
+            "Strong problem-solving and communication skills."
+        ],
+        "know": "Microsoft is committed to diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 36,
+        "company": "Amazon",
+        "posted": "15 ago",
+        "jobTitle": "Business Development Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t4.png",
+        "description": "Amazon is hiring a Senior Business Development Manager to drive growth and develop strategic business partnerships.",
+        "Overview": [
+            "Identify and develop new business opportunities.",
+            "Manage relationships with key partners and stakeholders.",
+            "Develop and implement business strategies and plans."
+        ],
+        "role": [
+            "Lead business development initiatives and negotiations.",
+            "Analyze market trends and identify growth opportunities.",
+            "Collaborate with internal teams to drive business success."
+        ],
+        "Responsibilities": [
+            "Develop and execute business development strategies.",
+            "Build and maintain strong relationships with partners.",
+            "Monitor and report on business development performance."
+        ],
+        "have": [
+            "Proven experience in business development and partnership management.",
+            "Strong negotiation and relationship-building skills.",
+            "Excellent strategic thinking and problem-solving abilities."
+        ],
+        "know": "Amazon values diversity and encourages applications from all qualified individuals."
+    },
+    {
+        "id": 37,
+        "company": "Apple",
+        "posted": "15 ago",
+        "jobTitle": "Quality Assurance Engineer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t5.png",
+        "description": "Apple is seeking a Senior Quality Assurance Engineer to ensure the quality and reliability of our software products.",
+        "Overview": [
+            "Design and implement test plans and procedures.",
+            "Collaborate with development teams to identify and resolve issues.",
+            "Perform manual and automated testing."
+        ],
+        "role": [
+            "Develop and execute test cases and scripts.",
+            "Identify and document software defects and issues.",
+            "Ensure products meet quality standards and specifications."
+        ],
+        "Responsibilities": [
+            "Lead QA testing efforts and ensure product quality.",
+            "Work with development teams to resolve issues.",
+            "Stay updated with industry best practices and testing tools."
+        ],
+        "have": [
+            "Extensive experience in quality assurance and testing.",
+            "Proficiency in testing tools and methodologies.",
+            "Strong analytical and problem-solving skills."
+        ],
+        "know": "Apple values diversity and encourages all qualified individuals to apply."
+    },
+    {
+        "id": 38,
+        "company": "Netflix",
+        "posted": "15 ago",
+        "jobTitle": "Video Editor",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Part-time",
+        "experience": "Junior",
+        "logo": "/t6.png",
+        "description": "Netflix is hiring a Junior Video Editor to assist in editing and producing engaging video content.",
+        "Overview": [
+            "Edit and assemble video footage into finished products.",
+            "Collaborate with creative teams to achieve desired outcomes.",
+            "Ensure videos meet technical and quality standards."
+        ],
+        "role": [
+            "Perform video editing tasks and manage video files.",
+            "Assist in creating video content for various platforms.",
+            "Ensure timely delivery of video projects."
+        ],
+        "Responsibilities": [
+            "Edit video footage and audio tracks.",
+            "Work with creative teams to develop video concepts.",
+            "Review and revise video content based on feedback."
+        ],
+        "have": [
+            "Basic experience in video editing and production.",
+            "Proficiency in video editing software.",
+            "Strong attention to detail and creativity."
+        ],
+        "know": "Netflix values diversity and encourages applicants from all backgrounds to apply."
+    },
+    {
+        "id": 39,
+        "company": "Twitter",
+        "posted": "15 ago",
+        "jobTitle": "Digital Marketing Specialist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t7.png",
+        "description": "Twitter is seeking a Mid-level Digital Marketing Specialist to manage and execute digital marketing campaigns.",
+        "Overview": [
+            "Develop and implement digital marketing strategies.",
+            "Analyze campaign performance and adjust strategies.",
+            "Collaborate with marketing teams and external partners."
+        ],
+        "role": [
+            "Manage digital marketing campaigns and initiatives.",
+            "Track and report on campaign performance metrics.",
+            "Develop marketing content and materials."
+        ],
+        "Responsibilities": [
+            "Lead digital marketing projects and campaigns.",
+            "Monitor and optimize digital marketing performance.",
+            "Coordinate with teams to ensure successful execution of campaigns."
+        ],
+        "have": [
+            "Experience in digital marketing and campaign management.",
+            "Proficiency in marketing tools and analytics platforms.",
+            "Strong organizational and communication skills."
+        ],
+        "know": "Twitter is committed to diversity and encourages candidates from all backgrounds to apply."
+    },
+    {
+        "id": 40,
+        "company": "LinkedIn",
+        "posted": "15 ago",
+        "jobTitle": "Recruitment Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t8.png",
+        "description": "LinkedIn is hiring a Senior Recruitment Manager to oversee the recruitment process and manage talent acquisition strategies.",
+        "Overview": [
+            "Develop and implement recruitment strategies.",
+            "Manage the recruitment team and hiring processes.",
+            "Build relationships with hiring managers and candidates."
+        ],
+        "role": [
+            "Lead and manage recruitment initiatives.",
+            "Ensure efficient and effective hiring processes.",
+            "Develop and maintain talent pipelines."
+        ],
+        "Responsibilities": [
+            "Oversee the recruitment process and team performance.",
+            "Develop strategies to attract and retain top talent.",
+            "Coordinate with stakeholders to meet hiring needs."
+        ],
+        "have": [
+            "Proven experience in recruitment and talent management.",
+            "Strong leadership and communication skills.",
+            "Ability to develop and execute recruitment strategies."
+        ],
+        "know": "LinkedIn values diversity and encourages applications from all qualified individuals."
+    },
+    {
+        "id": 41,
+        "company": "Adobe",
+        "posted": "15 ago",
+        "jobTitle": "UI Designer",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Contract",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t1.png",
+        "description": "Adobe is seeking a Mid-level UI Designer to design intuitive and visually appealing user interfaces for our applications.",
+        "Overview": [
+            "Design user interfaces for web and mobile applications.",
+            "Collaborate with UX designers and developers.",
+            "Ensure designs meet user needs and business goals."
+        ],
+        "role": [
+            "Create and refine UI designs and prototypes.",
+            "Work with development teams to ensure design implementation.",
+            "Review and iterate on designs based on user feedback."
+        ],
+        "Responsibilities": [
+            "Develop and deliver UI design solutions.",
+            "Ensure designs are user-friendly and aligned with brand standards.",
+            "Participate in design reviews and provide constructive feedback."
+        ],
+        "have": [
+            "Experience in UI design with a strong portfolio.",
+            "Proficiency in design tools and prototyping software.",
+            "Strong attention to detail and design principles."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 42,
+        "company": "Slack",
+        "posted": "14 ago",
+        "jobTitle": "Technical Support Engineer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Junior",
+        "logo": "/t2.png",
+        "description": "Slack is hiring a Junior Technical Support Engineer to provide technical assistance and support to customers.",
+        "Overview": [
+            "Assist customers with technical issues and inquiries.",
+            "Collaborate with engineering teams to resolve technical problems.",
+            "Provide high-quality customer support and solutions."
+        ],
+        "role": [
+            "Respond to customer support requests and troubleshoot issues.",
+            "Document and escalate technical problems as needed.",
+            "Work with engineering teams to resolve complex issues."
+        ],
+        "Responsibilities": [
+            "Deliver excellent technical support to customers.",
+            "Resolve technical issues in a timely and effective manner.",
+            "Maintain accurate records of support interactions and solutions."
+        ],
+        "have": [
+            "Basic technical knowledge and problem-solving skills.",
+            "Excellent communication and customer service abilities.",
+            "Ability to learn and adapt to new technologies."
+        ],
+        "know": "Slack values diversity and encourages candidates from all backgrounds to apply."
+    },
+    {
+        "id": 43,
+        "company": "Zoom",
+        "posted": "14 ago",
+        "jobTitle": "DevOps Engineer",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t3.png",
+        "description": "Zoom is seeking a Senior DevOps Engineer to manage and improve our development and deployment processes.",
+        "Overview": [
+            "Design and implement DevOps practices and tools.",
+            "Collaborate with development and operations teams.",
+            "Automate and optimize deployment processes."
+        ],
+        "role": [
+            "Manage and enhance continuous integration and delivery pipelines.",
+            "Monitor system performance and ensure reliability.",
+            "Implement best practices for infrastructure management and automation."
+        ],
+        "Responsibilities": [
+            "Lead DevOps initiatives and projects.",
+            "Ensure smooth deployment and operation of applications.",
+            "Troubleshoot and resolve infrastructure and deployment issues."
+        ],
+        "have": [
+            "Extensive experience in DevOps and cloud technologies.",
+            "Proficiency in automation tools and scripting languages.",
+            "Strong problem-solving and communication skills."
+        ],
+        "know": "Zoom values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 44,
+        "company": "Shopify",
+        "posted": "14 ago",
+        "jobTitle": "SEO Specialist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t4.png",
+        "description": "Shopify is seeking a Mid-level SEO Specialist to optimize our websites and improve search engine rankings.",
+        "Overview": [
+            "Develop and execute SEO strategies and campaigns.",
+            "Analyze website performance and SEO metrics.",
+            "Collaborate with content and marketing teams."
+        ],
+        "role": [
+            "Optimize website content for search engines.",
+            "Conduct keyword research and competitive analysis.",
+            "Monitor and report on SEO performance."
+        ],
+        "Responsibilities": [
+            "Implement SEO best practices and techniques.",
+            "Improve website ranking and visibility.",
+            "Coordinate with teams to ensure SEO alignment."
+        ],
+        "have": [
+            "Experience in SEO and digital marketing.",
+            "Proficiency in SEO tools and analytics platforms.",
+            "Strong analytical and communication skills."
+        ],
+        "know": "Shopify values diversity and encourages applicants from all backgrounds to apply."
+    },
+    {
+        "id": 45,
+        "company": "Dropbox",
+        "posted": "14 ago",
+        "jobTitle": "UX Researcher",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Contract",
+        "experience": "Contract",
+        "logo": "/t5.png",
+        "description": "Dropbox is hiring a UX Researcher on a contract basis to conduct user research and provide insights to improve user experiences.",
+        "Overview": [
+            "Conduct user research and usability testing.",
+            "Analyze research data and generate actionable insights.",
+            "Collaborate with design and product teams."
+        ],
+        "role": [
+            "Plan and execute UX research studies.",
+            "Gather and analyze user feedback and behavior.",
+            "Provide recommendations to enhance user experience."
+        ],
+        "Responsibilities": [
+            "Lead research efforts and design research methodologies.",
+            "Present research findings to stakeholders.",
+            "Work closely with teams to integrate insights into design solutions."
+        ],
+        "have": [
+            "Experience in UX research and usability testing.",
+            "Proficiency in research tools and methodologies.",
+            "Strong analytical and presentation skills."
+        ],
+        "know": "Dropbox values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 46,
+        "company": "Uber",
+        "posted": "14 ago",
+        "jobTitle": "Product Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t6.png",
+        "description": "Uber is hiring a Senior Product Manager to lead product development and manage the product lifecycle.",
+        "Overview": [
+            "Define product vision and strategy.",
+            "Manage product development and lifecycle.",
+            "Collaborate with cross-functional teams."
+        ],
+        "role": [
+            "Lead product management initiatives and projects.",
+            "Develop product roadmaps and strategies.",
+            "Coordinate with teams to ensure successful product delivery."
+        ],
+        "Responsibilities": [
+            "Oversee product development and execution.",
+            "Analyze market trends and user feedback.",
+            "Drive product innovation and improvement."
+        ],
+        "have": [
+            "Extensive experience in product management.",
+            "Strong leadership and project management skills.",
+            "Ability to analyze data and drive strategic decisions."
+        ],
+        "know": "Uber values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 47,
+        "company": "Square",
+        "posted": "14 ago",
+        "jobTitle": "Finance Manager",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t7.png",
+        "description": "Square is hiring a Mid-level Finance Manager to oversee financial planning and analysis.",
+        "Overview": [
+            "Manage financial planning and budgeting processes.",
+            "Analyze financial performance and generate reports.",
+            "Collaborate with finance and executive teams."
+        ],
+        "role": [
+            "Develop and manage financial models and forecasts.",
+            "Provide financial analysis and strategic recommendations.",
+            "Ensure accuracy and compliance in financial reporting."
+        ],
+        "Responsibilities": [
+            "Lead financial planning and analysis efforts.",
+            "Monitor financial performance and prepare reports.",
+            "Support decision-making with financial insights."
+        ],
+        "have": [
+            "Experience in financial management and analysis.",
+            "Strong analytical and communication skills.",
+            "Proficiency in financial software and tools."
+        ],
+        "know": "Square values diversity and encourages applications from all qualified individuals."
+    },
+    {
+        "id": 48,
+        "company": "Stripe",
+        "posted": "14 ago",
+        "jobTitle": "Front-End Developer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t8.png",
+        "description": "Stripe is seeking a Senior Front-End Developer to build and enhance user interfaces for our applications.",
+        "Overview": [
+            "Develop and maintain front-end components and applications.",
+            "Collaborate with design and backend teams.",
+            "Optimize application performance and user experience."
+        ],
+        "role": [
+            "Write clean, maintainable, and efficient code.",
+            "Implement UI/UX designs and improve user interfaces.",
+            "Work on front-end performance and scalability."
+        ],
+        "Responsibilities": [
+            "Lead front-end development efforts and projects.",
+            "Ensure high-quality and performant code.",
+            "Collaborate with teams to deliver user-centric solutions."
+        ],
+        "have": [
+            "Experience in front-end development with strong portfolio.",
+            "Proficiency in relevant technologies and frameworks.",
+            "Strong problem-solving and communication skills."
+        ],
+        "know": "Stripe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 49,
+        "company": "Airbnb",
+        "posted": "14 ago",
+        "jobTitle": "Mobile App Developer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Part-time",
+        "experience": "Junior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t1.png",
+        "description": "Airbnb is hiring a Junior Mobile App Developer to assist in developing and maintaining mobile applications.",
+        "Overview": [
+            "Develop and maintain mobile applications.",
+            "Collaborate with development and design teams.",
+            "Troubleshoot and fix bugs in mobile apps."
+        ],
+        "role": [
+            "Write and test code for mobile applications.",
+            "Assist in the design and implementation of app features.",
+            "Support application performance and stability."
+        ],
+        "Responsibilities": [
+            "Contribute to mobile app development projects.",
+            "Ensure applications are high-quality and user-friendly.",
+            "Assist with bug fixing and performance optimization."
+        ],
+        "have": [
+            "Basic experience in mobile app development.",
+            "Proficiency in relevant programming languages and tools.",
+            "Strong willingness to learn and adapt."
+        ],
+        "know": "Airbnb values diversity and encourages applications from all qualified individuals."
+    },
+    {
+        "id": 50,
+        "company": "Telegram",
+        "posted": "13 ago",
+        "jobTitle": "Content Marketing Manager",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Internship",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t2.png",
+        "description": "Telegram is seeking a Mid-level Content Marketing Manager for an internship position to develop and execute content marketing strategies.",
+        "Overview": [
+            "Develop and implement content marketing campaigns.",
+            "Create and manage content for various platforms.",
+            "Analyze content performance and optimize strategies."
+        ],
+        "role": [
+            "Plan and execute content marketing strategies.",
+            "Create engaging content and manage content calendars.",
+            "Monitor and report on content performance metrics."
+        ],
+        "Responsibilities": [
+            "Lead content marketing efforts and campaigns.",
+            "Ensure content aligns with marketing goals and audience needs.",
+            "Collaborate with teams to develop content strategies."
+        ],
+        "have": [
+            "Experience in content marketing and strategy.",
+            "Strong writing and content creation skills.",
+            "Ability to analyze and optimize content performance."
+        ],
+        "know": "Telegram values diversity and encourages applications from all qualified individuals."
+    },
+    {
+        "id": 51,
+        "company": "GitHub",
+        "posted": "13 ago",
+        "jobTitle": "Digital Marketing Specialist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t3.png",
+        "description": "GitHub is hiring a Senior Digital Marketing Specialist to manage and execute digital marketing strategies.",
+        "Overview": [
+            "Develop and implement digital marketing strategies.",
+            "Analyze and optimize marketing campaigns.",
+            "Collaborate with marketing teams and stakeholders."
+        ],
+        "role": [
+            "Lead digital marketing initiatives and projects.",
+            "Manage marketing campaigns and track performance.",
+            "Develop marketing materials and content."
+        ],
+        "Responsibilities": [
+            "Oversee digital marketing efforts and campaign execution.",
+            "Monitor and report on marketing performance metrics.",
+            "Collaborate with teams to achieve marketing objectives."
+        ],
+        "have": [
+            "Extensive experience in digital marketing.",
+            "Proficiency in digital marketing tools and analytics.",
+            "Strong communication and project management skills."
+        ],
+        "know": "GitHub values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 52,
+        "company": "Snapchat",
+        "posted": "13 ago",
+        "jobTitle": "UI/UX Designer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t4.png",
+        "description": "Snapchat is seeking a Senior UI/UX Designer to create and enhance user interfaces and experiences for our applications.",
+        "Overview": [
+            "Design and develop user interfaces and experiences.",
+            "Collaborate with cross-functional teams.",
+            "Conduct user research and usability testing."
+        ],
+        "role": [
+            "Create UI/UX designs and prototypes.",
+            "Work with teams to implement and refine designs.",
+            "Ensure designs meet user needs and business goals."
+        ],
+        "Responsibilities": [
+            "Lead UI/UX design projects and initiatives.",
+            "Analyze user feedback and improve design solutions.",
+            "Ensure consistency and quality in design deliverables."
+        ],
+        "have": [
+            "Extensive experience in UI/UX design with a strong portfolio.",
+            "Proficiency in design tools and user research methods.",
+            "Strong problem-solving and design skills."
+        ],
+        "know": "Snapchat values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 53,
+        "company": "Google",
+        "posted": "13 ago",
+        "jobTitle": "Data Scientist",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t5.png",
+        "description": "Google is hiring a Senior Data Scientist to analyze complex data sets and provide actionable insights for business decisions.",
+        "Overview": [
+            "Analyze large data sets and develop predictive models.",
+            "Provide insights and recommendations based on data analysis.",
+            "Collaborate with teams to drive data-driven decisions."
+        ],
+        "role": [
+            "Lead data analysis projects and initiatives.",
+            "Develop and implement data models and algorithms.",
+            "Communicate findings and recommendations to stakeholders."
+        ],
+        "Responsibilities": [
+            "Conduct advanced data analysis and modeling.",
+            "Ensure data accuracy and integrity.",
+            "Collaborate with teams to integrate data insights into business strategies."
+        ],
+        "have": [
+            "Extensive experience in data science and analytics.",
+            "Proficiency in data analysis tools and programming languages.",
+            "Strong analytical and communication skills."
+        ],
+        "know": "Google values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 54,
+        "company": "Facebook",
+        "posted": "13 ago",
+        "jobTitle": "Marketing Specialist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t6.png",
+        "description": "Facebook is hiring a Senior Marketing Specialist to develop and execute marketing strategies to drive brand growth and engagement.",
+        "Overview": [
+            "Create and implement marketing strategies.",
+            "Analyze market trends and campaign performance.",
+            "Collaborate with marketing teams and stakeholders."
+        ],
+        "role": [
+            "Lead marketing campaigns and initiatives.",
+            "Develop marketing materials and content.",
+            "Track and report on marketing metrics and KPIs."
+        ],
+        "Responsibilities": [
+            "Oversee marketing strategy development and execution.",
+            "Analyze data to optimize marketing efforts.",
+            "Work with cross-functional teams to achieve marketing goals."
+        ],
+        "have": [
+            "Extensive experience in marketing with a proven track record.",
+            "Strong analytical and communication skills.",
+            "Proficiency in marketing tools and platforms."
+        ],
+        "know": "Facebook values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 55,
+        "company": "Microsoft",
+        "posted": "13 ago",
+        "jobTitle": "Cloud Architect",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t7.png",
+        "description": "Microsoft is seeking a Mid-level Cloud Architect to design and manage cloud infrastructure and services.",
+        "Overview": [
+            "Design and implement cloud solutions.",
+            "Manage cloud architecture and infrastructure.",
+            "Collaborate with development teams to integrate cloud services."
+        ],
+        "role": [
+            "Develop and manage cloud infrastructure strategies.",
+            "Ensure cloud solutions are secure and scalable.",
+            "Provide technical guidance and support for cloud initiatives."
+        ],
+        "Responsibilities": [
+            "Lead cloud architecture design and implementation.",
+            "Monitor and optimize cloud infrastructure performance.",
+            "Collaborate with teams to ensure cloud solutions meet business needs."
+        ],
+        "have": [
+            "Experience in cloud architecture and services.",
+            "Strong technical skills in cloud platforms and tools.",
+            "Ability to design scalable and secure cloud solutions."
+        ],
+        "know": "Microsoft values diversity and encourages applications from all qualified individuals."
+    },
+    {
+        "id": 56,
+        "company": "Amazon",
+        "posted": "13 ago",
+        "jobTitle": "UX Designer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t8.png",
+        "description": "Amazon is hiring a Senior UX Designer to create user-centered designs for our digital products and services.",
+        "Overview": [
+            "Design and enhance user experiences across platforms.",
+            "Conduct user research and usability testing.",
+            "Collaborate with cross-functional teams to deliver design solutions."
+        ],
+        "role": [
+            "Lead UX design projects and initiatives.",
+            "Create user personas, wireframes, and prototypes.",
+            "Ensure designs align with user needs and business objectives."
+        ],
+        "Responsibilities": [
+            "Oversee design processes and deliverables.",
+            "Analyze user feedback and implement design improvements.",
+            "Work with teams to integrate UX design into product development."
+        ],
+        "have": [
+            "Extensive experience in UX design with a strong portfolio.",
+            "Proficiency in design tools and user research methods.",
+            "Excellent problem-solving and communication skills."
+        ],
+        "know": "Amazon values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 57,
+        "company": "Apple",
+        "posted": "12 ago",
+        "jobTitle": "iOS Developer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t1.png",
+        "description": "Apple is seeking a Senior iOS Developer to build and maintain innovative mobile applications for iOS devices.",
+        "Overview": [
+            "Develop and maintain iOS applications.",
+            "Collaborate with design and backend teams.",
+            "Optimize app performance and user experience."
+        ],
+        "role": [
+            "Write and test code for iOS applications.",
+            "Implement new features and improvements.",
+            "Ensure high performance and quality of applications."
+        ],
+        "Responsibilities": [
+            "Lead iOS development projects and initiatives.",
+            "Troubleshoot and resolve technical issues.",
+            "Collaborate with teams to deliver high-quality apps."
+        ],
+        "have": [
+            "Extensive experience in iOS development with a strong portfolio.",
+            "Proficiency in Swift and Objective-C programming languages.",
+            "Strong problem-solving and debugging skills."
+        ],
+        "know": "Apple values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 58,
+        "company": "Netflix",
+        "posted": "12 ago",
+        "jobTitle": "Content Writer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Part-time",
+        "experience": "Junior",
+        "logo": "/t2.png",
+        "description": "Netflix is hiring a Junior Content Writer to create engaging content for our digital platforms and marketing campaigns.",
+        "Overview": [
+            "Write and edit content for various platforms.",
+            "Collaborate with marketing teams to develop content strategies.",
+            "Ensure content aligns with brand voice and objectives."
+        ],
+        "role": [
+            "Create high-quality written content for digital platforms.",
+            "Assist in content strategy development.",
+            "Edit and proofread content for accuracy and clarity."
+        ],
+        "Responsibilities": [
+            "Contribute to content creation and management efforts.",
+            "Ensure content meets brand guidelines and standards.",
+            "Support marketing campaigns with compelling content."
+        ],
+        "have": [
+            "Basic experience in content writing and creation.",
+            "Strong writing and editing skills.",
+            "Willingness to learn and adapt to new content strategies."
+        ],
+        "know": "Netflix values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 59,
+        "company": "Twitter",
+        "posted": "12 ago",
+        "jobTitle": "Social Media Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t3.png",
+        "description": "Twitter is hiring a Mid-level Social Media Manager to manage and execute social media strategies and campaigns.",
+        "Overview": [
+            "Develop and implement social media strategies.",
+            "Manage social media accounts and campaigns.",
+            "Analyze social media performance and engagement."
+        ],
+        "role": [
+            "Lead social media campaigns and initiatives.",
+            "Create and schedule content for social platforms.",
+            "Monitor and report on social media metrics and performance."
+        ],
+        "Responsibilities": [
+            "Oversee social media strategy and execution.",
+            "Engage with the community and respond to inquiries.",
+            "Collaborate with teams to align social media efforts with marketing goals."
+        ],
+        "have": [
+            "Experience in social media management and strategy.",
+            "Strong understanding of social media platforms and analytics.",
+            "Excellent communication and organizational skills."
+        ],
+        "know": "Twitter values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 60,
+        "company": "LinkedIn",
+        "posted": "12 ago",
+        "jobTitle": "HR Specialist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t4.png",
+        "description": "LinkedIn is seeking a Senior HR Specialist to manage HR functions and support employee relations and development.",
+        "Overview": [
+            "Handle HR functions including recruitment, employee relations, and performance management.",
+            "Develop and implement HR policies and procedures.",
+            "Support employee development and engagement initiatives."
+        ],
+        "role": [
+            "Manage HR processes and support employee needs.",
+            "Ensure compliance with HR policies and regulations.",
+            "Provide guidance and support on HR-related issues."
+        ],
+        "Responsibilities": [
+            "Lead HR initiatives and manage employee relations.",
+            "Oversee recruitment and onboarding processes.",
+            "Implement HR programs and policies to support organizational goals."
+        ],
+        "have": [
+            "Extensive experience in HR management and employee relations.",
+            "Strong knowledge of HR policies and employment laws.",
+            "Excellent communication and interpersonal skills."
+        ],
+        "know": "LinkedIn values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 61,
+        "company": "Adobe",
+        "posted": "12 ago",
+        "jobTitle": "Marketing Analyst",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Contract",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t5.png",
+        "description": "Adobe is hiring a Mid-level Marketing Analyst to analyze marketing data and provide insights to improve marketing strategies.",
+        "Overview": [
+            "Analyze marketing data and performance metrics.",
+            "Develop reports and recommendations based on data analysis.",
+            "Collaborate with marketing teams to optimize campaigns."
+        ],
+        "role": [
+            "Lead data analysis projects and marketing research.",
+            "Create reports and presentations for stakeholders.",
+            "Provide insights and recommendations to improve marketing strategies."
+        ],
+        "Responsibilities": [
+            "Conduct in-depth analysis of marketing data and performance.",
+            "Ensure accuracy and reliability of data reports.",
+            "Work with marketing teams to implement data-driven strategies."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Proficiency in data analysis tools and techniques.",
+            "Strong analytical and problem-solving skills."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 62,
+        "company": "Slack",
+        "posted": "12 ago",
+        "jobTitle": "Technical Writer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Junior",
+        "logo": "/t6.png",
+        "description": "Slack is hiring a Junior Technical Writer to create and maintain technical documentation and user guides.",
+        "Overview": [
+            "Write and edit technical documentation and user guides.",
+            "Collaborate with engineering and product teams.",
+            "Ensure documentation is clear and accurate."
+        ],
+        "role": [
+            "Create and maintain technical documents.",
+            "Work with teams to gather and understand technical information.",
+            "Ensure documentation meets quality standards."
+        ],
+        "Responsibilities": [
+            "Produce clear and concise technical content.",
+            "Edit and proofread technical documents.",
+            "Support teams with documentation needs and updates."
+        ],
+        "have": [
+            "Basic experience in technical writing or a related field.",
+            "Strong writing and editing skills.",
+            "Ability to understand and convey technical information."
+        ],
+        "know": "Slack values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 63,
+        "company": "Zoom",
+        "posted": "11 ago",
+        "jobTitle": "Software Engineer",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t7.png",
+        "description": "Zoom is hiring a Senior Software Engineer to develop and maintain software solutions and applications.",
+        "Overview": [
+            "Design and implement software solutions.",
+            "Collaborate with engineering teams to develop new features.",
+            "Ensure software quality and performance."
+        ],
+        "role": [
+            "Lead software development projects.",
+            "Develop and test code for software applications.",
+            "Troubleshoot and resolve technical issues."
+        ],
+        "Responsibilities": [
+            "Oversee software design and development.",
+            "Ensure software meets quality standards and performance goals.",
+            "Collaborate with teams to deliver high-quality software solutions."
+        ],
+        "have": [
+            "Extensive experience in software engineering and development.",
+            "Proficiency in programming languages and development tools.",
+            "Strong problem-solving and communication skills."
+        ],
+        "know": "Zoom values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 64,
+        "company": "Shopify",
+        "posted": "11 ago",
+        "jobTitle": "Product Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t8.png",
+        "description": "Shopify is seeking a Mid-level Product Manager to oversee product development and drive product strategies.",
+        "Overview": [
+            "Manage product lifecycle from ideation to launch.",
+            "Collaborate with cross-functional teams to deliver product features.",
+            "Analyze market trends and user feedback to guide product development."
+        ],
+        "role": [
+            "Lead product management efforts and strategy.",
+            "Work with design and development teams to create product solutions.",
+            "Track product performance and gather user feedback."
+        ],
+        "Responsibilities": [
+            "Develop and execute product strategies and roadmaps.",
+            "Manage product development and ensure timely delivery.",
+            "Analyze data and feedback to inform product decisions."
+        ],
+        "have": [
+            "Experience in product management and strategy.",
+            "Strong analytical and project management skills.",
+            "Ability to work with cross-functional teams."
+        ],
+        "know": "Shopify values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 65,
+        "company": "Dropbox",
+        "posted": "11 ago",
+        "jobTitle": "UX/UI Designer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Contract",
+        "experience": "Contract",
+        "logo": "/t1.png",
+        "description": "Dropbox is hiring a UX/UI Designer to design and enhance user interfaces and experiences for our products.",
+        "Overview": [
+            "Design user interfaces and user experiences for digital products.",
+            "Conduct user research and usability testing.",
+            "Collaborate with product teams to implement design solutions."
+        ],
+        "role": [
+            "Create and iterate on UI/UX designs.",
+            "Develop wireframes, prototypes, and design specifications.",
+            "Work closely with developers to ensure design implementation."
+        ],
+        "Responsibilities": [
+            "Design and improve user interfaces and interactions.",
+            "Conduct user research and apply insights to design.",
+            "Collaborate with teams to ensure cohesive and user-friendly designs."
+        ],
+        "have": [
+            "Experience in UX/UI design with a strong portfolio.",
+            "Proficiency in design tools and methodologies.",
+            "Strong problem-solving and communication skills."
+        ],
+        "know": "Dropbox values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 66,
+        "company": "Uber",
+        "posted": "11 ago",
+        "jobTitle": "Operations Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t2.png",
+        "description": "Uber is seeking a Senior Operations Manager to oversee operational activities and drive efficiency improvements.",
+        "Overview": [
+            "Manage daily operations and ensure smooth business processes.",
+            "Implement strategies to improve operational efficiency.",
+            "Collaborate with teams to achieve operational goals."
+        ],
+        "role": [
+            "Lead operations management and strategic initiatives.",
+            "Develop and implement operational processes and procedures.",
+            "Monitor performance and drive continuous improvement."
+        ],
+        "Responsibilities": [
+            "Oversee operational activities and ensure adherence to standards.",
+            "Analyze operational data and implement improvements.",
+            "Coordinate with teams to address operational challenges."
+        ],
+        "have": [
+            "Extensive experience in operations management.",
+            "Strong leadership and analytical skills.",
+            "Ability to drive efficiency and process improvements."
+        ],
+        "know": "Uber values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 67,
+        "company": "Square",
+        "posted": "11 ago",
+        "jobTitle": "Financial Analyst",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t3.png",
+        "description": "Square is hiring a Mid-level Financial Analyst to analyze financial data and support financial planning and decision-making.",
+        "Overview": [
+            "Conduct financial analysis and reporting.",
+            "Support financial planning and budgeting activities.",
+            "Collaborate with teams to provide financial insights and recommendations."
+        ],
+        "role": [
+            "Lead financial analysis and reporting efforts.",
+            "Develop financial models and forecasts.",
+            "Provide insights to support business decisions and strategies."
+        ],
+        "Responsibilities": [
+            "Analyze financial data and prepare reports.",
+            "Assist with budgeting and forecasting activities.",
+            "Collaborate with teams to drive financial performance."
+        ],
+        "have": [
+            "Experience in financial analysis and reporting.",
+            "Proficiency in financial modeling and analysis tools.",
+            "Strong analytical and problem-solving skills."
+        ],
+        "know": "Square values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 68,
+        "company": "Stripe",
+        "posted": "11 ago",
+        "jobTitle": "Front-End Developer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t4.png",
+        "description": "Stripe is seeking a Senior Front-End Developer to build and maintain high-performance web applications and user interfaces.",
+        "Overview": [
+            "Develop and optimize front-end web applications.",
+            "Collaborate with design and backend teams to implement features.",
+            "Ensure high performance and responsiveness of web applications."
+        ],
+        "role": [
+            "Lead front-end development projects.",
+            "Write and maintain code for web applications.",
+            "Ensure user interfaces are intuitive and performant."
+        ],
+        "Responsibilities": [
+            "Oversee front-end development and implementation.",
+            "Optimize web applications for performance and usability.",
+            "Work with teams to integrate front-end features with backend systems."
+        ],
+        "have": [
+            "Extensive experience in front-end development with a strong portfolio.",
+            "Proficiency in HTML, CSS, and JavaScript frameworks.",
+            "Strong problem-solving and collaboration skills."
+        ],
+        "know": "Stripe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 69,
+        "company": "Airbnb",
+        "posted": "11 ago",
+        "jobTitle": "Mobile App Developer",
+        "location": "Remote, (GMT-5) to (GMT+6)",
+        "jobType": "Part-time",
+        "experience": "Junior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t5.png",
+        "description": "Airbnb is hiring a Junior Mobile App Developer to assist in developing and maintaining mobile applications for iOS and Android platforms.",
+        "Overview": [
+            "Develop and maintain mobile applications for iOS and Android.",
+            "Collaborate with development teams on app features and functionality.",
+            "Ensure applications are user-friendly and performant."
+        ],
+        "role": [
+            "Assist in mobile app development and maintenance.",
+            "Write and test code for mobile applications.",
+            "Support app performance and user experience improvements."
+        ],
+        "Responsibilities": [
+            "Contribute to mobile app development projects.",
+            "Fix bugs and implement new features.",
+            "Collaborate with teams to enhance mobile app performance."
+        ],
+        "have": [
+            "Basic experience in mobile app development.",
+            "Proficiency in Swift, Kotlin, or other mobile development languages.",
+            "Willingness to learn and grow in mobile app development."
+        ],
+        "know": "Airbnb values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 70,
+        "company": "Telegram",
+        "posted": "10 ago",
+        "jobTitle": "Content Marketing Manager",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Internship",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t6.png",
+        "description": "Telegram is hiring a Mid-level Content Marketing Manager to create and manage content marketing strategies and campaigns.",
+        "Overview": [
+            "Develop and implement content marketing strategies.",
+            "Create engaging content and manage marketing campaigns.",
+            "Analyze content performance and make data-driven improvements."
+        ],
+        "role": [
+            "Lead content marketing initiatives and campaigns.",
+            "Create and schedule content for various channels.",
+            "Monitor and analyze content performance metrics."
+        ],
+        "Responsibilities": [
+            "Oversee content marketing strategy and execution.",
+            "Collaborate with teams to align content with marketing goals.",
+            "Track and report on content performance and engagement."
+        ],
+        "have": [
+            "Experience in content marketing and campaign management.",
+            "Strong writing and analytical skills.",
+            "Ability to develop and execute marketing strategies."
+        ],
+        "know": "Telegram values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 71,
+        "company": "GitHub",
+        "posted": "10 ago",
+        "jobTitle": "Digital Marketing Specialist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t7.png",
+        "description": "GitHub is hiring a Senior Digital Marketing Specialist to drive digital marketing strategies and campaigns.",
+        "Overview": [
+            "Develop and execute digital marketing strategies.",
+            "Manage digital marketing campaigns and channels.",
+            "Analyze and optimize digital marketing performance."
+        ],
+        "role": [
+            "Lead digital marketing initiatives and strategies.",
+            "Create and manage digital marketing campaigns.",
+            "Track and analyze digital marketing metrics and performance."
+        ],
+        "Responsibilities": [
+            "Oversee digital marketing projects and campaigns.",
+            "Collaborate with teams to align digital strategies with business goals.",
+            "Provide insights and recommendations to improve digital marketing efforts."
+        ],
+        "have": [
+            "Extensive experience in digital marketing.",
+            "Strong understanding of digital marketing tools and techniques.",
+            "Excellent analytical and communication skills."
+        ],
+        "know": "GitHub values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 72,
+        "company": "Snapchat",
+        "posted": "10 ago",
+        "jobTitle": "UI/UX Designer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t8.png",
+        "description": "Snapchat is hiring a Senior UI/UX Designer to create and enhance user interfaces and experiences for our applications.",
+        "Overview": [
+            "Design user interfaces and enhance user experiences.",
+            "Conduct user research and usability testing.",
+            "Collaborate with design and development teams."
+        ],
+        "role": [
+            "Lead UI/UX design projects and initiatives.",
+            "Develop design prototypes and specifications.",
+            "Ensure designs meet user needs and business goals."
+        ],
+        "Responsibilities": [
+            "Oversee UI/UX design processes and deliverables.",
+            "Create and refine design prototypes and mockups.",
+            "Work with teams to implement design solutions effectively."
+        ],
+        "have": [
+            "Extensive experience in UI/UX design with a strong portfolio.",
+            "Proficiency in design tools and methodologies.",
+            "Strong problem-solving and collaboration skills."
+        ],
+        "know": "Snapchat values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 73,
+        "company": "Google",
+        "posted": "10 ago",
+        "jobTitle": "Data Scientist",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t1.png",
+        "description": "Google is seeking a Senior Data Scientist to analyze complex data sets and provide insights to drive business decisions.",
+        "Overview": [
+            "Analyze and interpret complex data sets.",
+            "Develop data models and algorithms.",
+            "Collaborate with teams to provide data-driven insights."
+        ],
+        "role": [
+            "Lead data analysis and modeling projects.",
+            "Create and implement data algorithms and solutions.",
+            "Provide insights to support business strategies and decisions."
+        ],
+        "Responsibilities": [
+            "Oversee data analysis and model development.",
+            "Analyze data trends and provide actionable insights.",
+            "Collaborate with teams to integrate data-driven solutions."
+        ],
+        "have": [
+            "Extensive experience in data science and analysis.",
+            "Proficiency in data analysis tools and techniques.",
+            "Strong analytical and problem-solving skills."
+        ],
+        "know": "Google values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 74,
+        "company": "Facebook",
+        "posted": "10 ago",
+        "jobTitle": "Marketing Specialist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t2.png",
+        "description": "Facebook is looking for a Senior Marketing Specialist to develop and implement marketing strategies to enhance brand presence and growth.",
+        "Overview": [
+            "Create and manage marketing strategies and campaigns.",
+            "Analyze marketing data and performance metrics.",
+            "Collaborate with internal teams to align marketing efforts."
+        ],
+        "role": [
+            "Lead marketing campaigns and initiatives.",
+            "Develop marketing content and materials.",
+            "Monitor and report on marketing effectiveness and ROI."
+        ],
+        "Responsibilities": [
+            "Oversee the creation and execution of marketing strategies.",
+            "Analyze and report on campaign performance.",
+            "Work with teams to integrate marketing efforts across channels."
+        ],
+        "have": [
+            "Extensive experience in marketing and campaign management.",
+            "Strong analytical skills and proficiency in marketing tools.",
+            "Excellent communication and teamwork abilities."
+        ],
+        "know": "Facebook values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 75,
+        "company": "Microsoft",
+        "posted": "10 ago",
+        "jobTitle": "Cloud Architect",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t3.png",
+        "description": "Microsoft is seeking a Mid-level Cloud Architect to design and implement cloud infrastructure solutions and services.",
+        "Overview": [
+            "Design and manage cloud infrastructure solutions.",
+            "Collaborate with development teams to integrate cloud services.",
+            "Optimize cloud architecture for performance and scalability."
+        ],
+        "role": [
+            "Lead cloud architecture design and implementation.",
+            "Develop and maintain cloud infrastructure.",
+            "Provide technical support and guidance on cloud initiatives."
+        ],
+        "Responsibilities": [
+            "Oversee cloud architecture projects and solutions.",
+            "Monitor and improve cloud infrastructure performance.",
+            "Work with teams to ensure cloud solutions meet business needs."
+        ],
+        "have": [
+            "Experience in cloud architecture and cloud services.",
+            "Strong technical skills in cloud platforms and tools.",
+            "Ability to design scalable and secure cloud solutions."
+        ],
+        "know": "Microsoft values diversity and encourages all qualified candidates to apply."
+    },
+   
+    {
+        "id": 76,
+        "company": "Amazon",
+        "posted": "10 ago",
+        "jobTitle": "UX Designer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t4.png",
+        "description": "Amazon is seeking a Senior UX Designer to enhance user experiences and interfaces across our platforms.",
+        "Overview": [
+            "Design and refine user interfaces and experiences.",
+            "Conduct user research and usability testing.",
+            "Collaborate with design and development teams."
+        ],
+        "role": [
+            "Lead UX design projects and initiatives.",
+            "Create design prototypes and wireframes.",
+            "Ensure designs meet user needs and business goals."
+        ],
+        "Responsibilities": [
+            "Oversee UX design processes and deliverables.",
+            "Develop and test design solutions.",
+            "Work with teams to implement design solutions effectively."
+        ],
+        "have": [
+            "Extensive experience in UX design with a strong portfolio.",
+            "Proficiency in design tools and methodologies.",
+            "Strong problem-solving and collaboration skills."
+        ],
+        "know": "Amazon values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 77,
+        "company": "Apple",
+        "posted": "9 ago",
+        "jobTitle": "iOS Developer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t5.png",
+        "description": "Apple is hiring a Senior iOS Developer to build and maintain innovative applications for iOS devices.",
+        "Overview": [
+            "Develop and maintain iOS applications.",
+            "Collaborate with cross-functional teams on app features.",
+            "Ensure high performance and responsiveness of applications."
+        ],
+        "role": [
+            "Lead iOS development projects and initiatives.",
+            "Write and optimize code for iOS applications.",
+            "Support app performance and user experience improvements."
+        ],
+        "Responsibilities": [
+            "Oversee iOS app development and maintenance.",
+            "Implement new features and fix bugs.",
+            "Work with teams to ensure app quality and performance."
+        ],
+        "have": [
+            "Extensive experience in iOS development.",
+            "Proficiency in Swift and Objective-C.",
+            "Strong problem-solving and collaboration skills."
+        ],
+        "know": "Apple values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 78,
+        "company": "Netflix",
+        "posted": "9 ago",
+        "jobTitle": "Content Writer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Part-time",
+        "experience": "Junior",
+        "logo": "/t6.png",
+        "description": "Netflix is looking for a Junior Content Writer to create engaging content for various platforms.",
+        "Overview": [
+            "Write and edit content for online platforms.",
+            "Assist in content strategy and planning.",
+            "Collaborate with content and marketing teams."
+        ],
+        "role": [
+            "Create content for digital platforms.",
+            "Support content strategy and development.",
+            "Edit and proofread content for accuracy and clarity."
+        ],
+        "Responsibilities": [
+            "Produce high-quality written content.",
+            "Assist with content strategy and planning.",
+            "Collaborate with teams to ensure content aligns with goals."
+        ],
+        "have": [
+            "Basic experience in content writing or journalism.",
+            "Strong writing and editing skills.",
+            "Ability to work collaboratively with teams."
+        ],
+        "know": "Netflix values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 79,
+        "company": "Twitter",
+        "posted": "9 ago",
+        "jobTitle": "Social Media Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t7.png",
+        "description": "Twitter is hiring a Mid-level Social Media Manager to oversee social media campaigns and engagement strategies.",
+        "Overview": [
+            "Develop and implement social media strategies.",
+            "Manage social media campaigns and channels.",
+            "Analyze social media performance and engagement."
+        ],
+        "role": [
+            "Lead social media marketing efforts.",
+            "Create and schedule social media content.",
+            "Monitor and report on social media metrics."
+        ],
+        "Responsibilities": [
+            "Oversee social media campaigns and initiatives.",
+            "Collaborate with teams to align social media strategies.",
+            "Track and analyze social media performance."
+        ],
+        "have": [
+            "Experience in social media management and strategy.",
+            "Strong communication and analytical skills.",
+            "Ability to develop and execute social media plans."
+        ],
+        "know": "Twitter values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 80,
+        "company": "LinkedIn",
+        "posted": "9 ago",
+        "jobTitle": "HR Specialist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t8.png",
+        "description": "LinkedIn is seeking a Senior HR Specialist to manage HR functions and support employee relations.",
+        "Overview": [
+            "Oversee HR processes and employee relations.",
+            "Develop and implement HR policies and programs.",
+            "Support recruitment, onboarding, and employee development."
+        ],
+        "role": [
+            "Lead HR initiatives and projects.",
+            "Manage employee relations and HR support.",
+            "Ensure compliance with HR policies and regulations."
+        ],
+        "Responsibilities": [
+            "Oversee HR functions and processes.",
+            "Support employee engagement and development.",
+            "Collaborate with teams to align HR strategies with business goals."
+        ],
+        "have": [
+            "Extensive experience in HR and employee relations.",
+            "Strong understanding of HR policies and best practices.",
+            "Excellent communication and problem-solving skills."
+        ],
+        "know": "LinkedIn values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 81,
+        "company": "Adobe",
+        "posted": "9 ago",
+        "jobTitle": "Marketing Analyst",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Contract",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t1.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 82,
+        "company": "Slack",
+        "posted": "9 ago",
+        "jobTitle": "Technical Writer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Junior",
+        "logo": "/t2.png",
+        "description": "Slack is hiring a Junior Technical Writer to create and manage technical documentation and content.",
+        "Overview": [
+            "Develop and maintain technical documentation.",
+            "Work with teams to gather information and create content.",
+            "Ensure technical content is clear and accurate."
+        ],
+        "role": [
+            "Assist in creating and managing technical documents.",
+            "Collaborate with teams to produce technical content.",
+            "Support documentation updates and improvements."
+        ],
+        "Responsibilities": [
+            "Produce high-quality technical documentation.",
+            "Work with technical teams to gather information.",
+            "Edit and review documentation for accuracy and clarity."
+        ],
+        "have": [
+            "Basic experience in technical writing.",
+            "Strong writing and communication skills.",
+            "Willingness to learn and adapt in a technical environment."
+        ],
+        "know": "Slack values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 83,
+        "company": "Zoom",
+        "posted": "8 ago",
+        "jobTitle": "Software Engineer",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t3.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 84,
+        "company": "Shopify",
+        "posted": "8 ago",
+        "jobTitle": "Product Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t4.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 85,
+        "company": "Dropbox",
+        "posted": "8 ago",
+        "jobTitle": "UX/UI Designer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Contract",
+        "experience": "Contract",
+        "logo": "/t5.png"
+        ,
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 86,
+        "company": "Uber",
+        "posted": "8 ago",
+        "jobTitle": "Operations Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t6.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 87,
+        "company": "Square",
+        "posted": "8 ago",
+        "jobTitle": "Financial Analyst",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t7.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 88,
+        "company": "Stripe",
+        "posted": "8 ago",
+        "jobTitle": "Front-End Developer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t8.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 89,
+        "company": "Airbnb",
+        "posted": "8 ago",
+        "jobTitle": "Mobile App Developer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Part-time",
+        "experience": "Junior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t1.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 90,
+        "company": "Telegram",
+        "posted": "7 ago",
+        "jobTitle": "Content Marketing Manager",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Internship",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t2.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 91,
+        "company": "GitHub",
+        "posted": "7 ago",
+        "jobTitle": "Digital Marketing Specialist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t3.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 92,
+        "company": "Snapchat",
+        "posted": "7 ago",
+        "jobTitle": "UI/UX Designer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t4.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 93,
+        "company": "Google",
+        "posted": "7 ago",
+        "jobTitle": "Data Scientist",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t5.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 94,
+        "company": "Facebook",
+        "posted": "7 ago",
+        "jobTitle": "Marketing Specialist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t6.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 95,
+        "company": "Microsoft",
+        "posted": "7 ago",
+        "jobTitle": "Cloud Architect",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t7.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 96,
+        "company": "Amazon",
+        "posted": "7 ago",
+        "jobTitle": "UX Designer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t8.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 97,
+        "company": "Apple",
+        "posted": "6 ago",
+        "jobTitle": "iOS Developer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t1.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 98,
+        "company": "Netflix",
+        "posted": "6 ago",
+        "jobTitle": "Content Writer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Part-time",
+        "experience": "Junior",
+        "logo": "/t2.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 99,
+        "company": "Twitter",
+        "posted": "6 ago",
+        "jobTitle": "Social Media Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t3.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 100,
+        "company": "LinkedIn",
+        "posted": "6 ago",
+        "jobTitle": "HR Specialist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t4.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 101,
+        "company": "Adobe",
+        "posted": "6 ago",
+        "jobTitle": "Marketing Analyst",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Contract",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t5.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 102,
+        "company": "Slack",
+        "posted": "6 ago",
+        "jobTitle": "Technical Writer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Junior",
+        "logo": "/t6.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 103,
+        "company": "Zoom",
+        "posted": "5 ago",
+        "jobTitle": "Software Engineer",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t7.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 104,
+        "company": "Shopify",
+        "posted": "5 ago",
+        "jobTitle": "Product Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t8.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 105,
+        "company": "Dropbox",
+        "posted": "5 ago",
+        "jobTitle": "UX/UI Designer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Contract",
+        "experience": "Contract",
+        "logo": "/t1.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 106,
+        "company": "Uber",
+        "posted": "5 ago",
+        "jobTitle": "Operations Manager",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t2.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 107,
+        "company": "Square",
+        "posted": "5 ago",
+        "jobTitle": "Financial Analyst",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t3.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 108,
+        "company": "Stripe",
+        "posted": "5 ago",
+        "jobTitle": "Front-End Developer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t4.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 109,
+        "company": "Airbnb",
+        "posted": "5 ago",
+        "jobTitle": "Mobile App Developer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Part-time",
+        "experience": "Junior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t5.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 110,
+        "company": "Telegram",
+        "posted": "4 ago",
+        "jobTitle": "Content Marketing Manager",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Internship",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t6.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 111,
+        "company": "GitHub",
+        "posted": "4 ago",
+        "jobTitle": "Digital Marketing Specialist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t7.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 112,
+        "company": "Snapchat",
+        "posted": "4 ago",
+        "jobTitle": "UI/UX Designer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t8.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 113,
+        "company": "Google",
+        "posted": "4 ago",
+        "jobTitle": "Data Scientist",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "remoteStatus": "Remote OK",
+        "logo": "/t1.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 114,
+        "company": "Facebook",
+        "posted": "4 ago",
+        "jobTitle": "Marketing Specialist",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t2.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 115,
+        "company": "Microsoft",
+        "posted": "4 ago",
+        "jobTitle": "Cloud Architect",
+        "applyType": "FAST APPLY",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Mid-level",
+        "remoteStatus": "Remote OK",
+        "logo": "/t3.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 116,
+        "company": "Amazon",
+        "posted": "4 ago",
+        "jobTitle": "UX Designer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t4.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    },
+    {
+        "id": 117,
+        "company": "Apple",
+        "posted": "3 ago",
+        "jobTitle": "iOS Developer",
+        "location": "Remote, (GMT-8) to (GMT+6)",
+        "jobType": "Full-time",
+        "experience": "Senior",
+        "logo": "/t5.png",
+        "description": "Adobe is looking for a Mid-level Marketing Analyst to analyze market data and support marketing strategies.",
+        "Overview": [
+            "Analyze market data and trends.",
+            "Support marketing strategy development and execution.",
+            "Provide insights and recommendations based on data analysis."
+        ],
+        "role": [
+            "Lead marketing data analysis projects.",
+            "Create reports and presentations on marketing performance.",
+            "Collaborate with teams to support marketing initiatives."
+        ],
+        "Responsibilities": [
+            "Analyze and interpret marketing data.",
+            "Develop insights and recommendations for marketing strategies.",
+            "Collaborate with teams to enhance marketing efforts."
+        ],
+        "have": [
+            "Experience in marketing analysis and data interpretation.",
+            "Strong analytical and communication skills.",
+            "Proficiency in data analysis tools and techniques."
+        ],
+        "know": "Adobe values diversity and encourages all qualified candidates to apply."
+    }
+]

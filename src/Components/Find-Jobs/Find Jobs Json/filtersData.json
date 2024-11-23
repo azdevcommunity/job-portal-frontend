@@ -1,0 +1,27 @@
+{
+    "Roles": [
+      {"id": "Analyst", "label": "Analyst", "count": 0},
+      {"id": "Backend", "label": "Backend Developer", "count": 0},
+      {"id": "Business", "label": "Business Development", "count": 0},
+      {"id": "Data", "label": "Data Science", "count": 0},
+      {"id": "Design", "label": "Design", "count": 0},
+      {"id": "Engineer", "label": "Engineer", "count": 0},
+      {"id": "Marketing", "label": "Marketing", "count": 0}
+    ],
+    "Seniority Level": [
+      {"id": "Junior", "label": "Junior", "count": 0},
+      {"id": "Mid-Level", "label": "Mid-Level", "count": 0},
+      {"id": "Senior", "label": "Senior", "count": 0},
+      {"id": "Expert", "label": "Expert & Leadership", "count": 0}
+    ],
+    "Job Type": [
+      {"id": "Full-time", "label": "Full-time", "count": 0},
+      {"id": "Freelance", "label": "Freelance/Contract", "count": 0},
+      {"id": "Internship", "label": "Internship", "count": 0},
+      {"id": "Part-time", "label": "Part-time", "count": 0}
+    ],
+    "Remote": [
+      {"id": "Remote", "label": "Open to remote", "count": 0}
+    ]
+  }
+  
